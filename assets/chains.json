@@ -1,0 +1,66 @@
+{
+  "name": "NodeSpark Wallet - Supported Chains",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "chains": [
+    {
+      "chainId": 1,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "rpcUrl": "https://ethereum.publicnode.com",
+      "explorerUrl": "https://etherscan.io",
+      "coinGeckoId": "ethereum",
+      "decimals": 18,
+      "color": "#627EEA"
+    },
+    {
+      "chainId": 56,
+      "name": "BNB Smart Chain",
+      "symbol": "BNB",
+      "rpcUrl": "https://bsc-dataseed.binance.org",
+      "explorerUrl": "https://bscscan.com",
+      "coinGeckoId": "binancecoin",
+      "decimals": 18,
+      "color": "#F3BA2F"
+    },
+    {
+      "chainId": 137,
+      "name": "Polygon",
+      "symbol": "POL",
+      "rpcUrl": "https://polygon-bor-rpc.publicnode.com",
+      "explorerUrl": "https://polygonscan.com",
+      "coinGeckoId": "matic-network",
+      "decimals": 18,
+      "color": "#8247E5"
+    },
+    {
+      "chainId": 42161,
+      "name": "Arbitrum One",
+      "symbol": "ETH",
+      "rpcUrl": "https://arbitrum-one-rpc.publicnode.com",
+      "explorerUrl": "https://arbiscan.io",
+      "coinGeckoId": "ethereum",
+      "decimals": 18,
+      "color": "#28A0F0"
+    },
+    {
+      "chainId": 10,
+      "name": "Optimism",
+      "symbol": "ETH",
+      "rpcUrl": "https://optimism-rpc.publicnode.com",
+      "explorerUrl": "https://optimistic.etherscan.io",
+      "coinGeckoId": "ethereum",
+      "decimals": 18,
+      "color": "#FF0420"
+    },
+    {
+      "chainId": 8453,
+      "name": "Base",
+      "symbol": "ETH",
+      "rpcUrl": "https://base-rpc.publicnode.com",
+      "explorerUrl": "https://basescan.org",
+      "coinGeckoId": "ethereum",
+      "decimals": 18,
+      "color": "#0052FF"
+    }
+  ]
+}
