@@ -10,7 +10,8 @@
       "explorerUrl": "https://etherscan.io",
       "coinGeckoId": "ethereum",
       "decimals": 18,
-      "color": "#627EEA"
+      "color": "#627EEA",
+      "logoUri": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
     },
     {
       "chainId": 56,
@@ -20,7 +21,8 @@
       "explorerUrl": "https://bscscan.com",
       "coinGeckoId": "binancecoin",
       "decimals": 18,
-      "color": "#F3BA2F"
+      "color": "#F3BA2F",
+      "logoUri": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png"
     },
     {
       "chainId": 137,
@@ -30,7 +32,8 @@
       "explorerUrl": "https://polygonscan.com",
       "coinGeckoId": "matic-network",
       "decimals": 18,
-      "color": "#8247E5"
+      "color": "#8247E5",
+      "logoUri": "https://assets.coingecko.com/coins/images/4713/small/polygon.png"
     },
     {
       "chainId": 42161,
@@ -40,7 +43,8 @@
       "explorerUrl": "https://arbiscan.io",
       "coinGeckoId": "ethereum",
       "decimals": 18,
-      "color": "#28A0F0"
+      "color": "#28A0F0",
+      "logoUri": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg"
     },
     {
       "chainId": 10,
@@ -50,7 +54,8 @@
       "explorerUrl": "https://optimistic.etherscan.io",
       "coinGeckoId": "ethereum",
       "decimals": 18,
-      "color": "#FF0420"
+      "color": "#FF0420",
+      "logoUri": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png"
     },
     {
       "chainId": 8453,
@@ -60,7 +65,8 @@
       "explorerUrl": "https://basescan.org",
       "coinGeckoId": "ethereum",
       "decimals": 18,
-      "color": "#0052FF"
+      "color": "#0052FF",
+      "logoUri": "https://assets.coingecko.com/coins/images/34092/small/Base_Symbol_Blue.png"
     }
   ]
 }
