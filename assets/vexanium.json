@@ -1,0 +1,21 @@
+{
+  "name": "NodeSpark Wallet - Vexanium",
+  "chainId": 6736,
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "address": "0x3a59c1dd7535cfc1181a758758e06cd98a175bc8",
+      "name": "Wrapped USD",
+      "symbol": "wUSDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether.png"
+    },
+    {
+        "address": "0xdab5ae370e584d416e38274a55ae764ea4eac8b7",
+        "name": "NodeSpark",
+        "symbol": "SPARK",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-evm-tokenlist/main/assets/0xdab5ae370e584d416e38274a55ae764ea4eac8b7.png"
+    }
+  ]
+}
