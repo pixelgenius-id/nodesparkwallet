@@ -17,7 +17,8 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#627EEA",
-      "logoUri": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+      "logoUri": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+      "tokenListFile": "ethereum.json"
     },
     {
       "chainId": 56,
@@ -34,7 +35,8 @@
       "coinGeckoId": "binancecoin",
       "decimals": 18,
       "color": "#F3BA2F",
-      "logoUri": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png"
+      "logoUri": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png",
+      "tokenListFile": "smartchain.json"
     },
     {
       "chainId": 137,
@@ -50,7 +52,8 @@
       "coinGeckoId": "matic-network",
       "decimals": 18,
       "color": "#8247E5",
-      "logoUri": "https://assets.coingecko.com/coins/images/4713/small/polygon.png"
+      "logoUri": "https://assets.coingecko.com/coins/images/4713/small/polygon.png",
+      "tokenListFile": "polygon.json"
     },
     {
       "chainId": 42161,
@@ -66,7 +69,8 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#28A0F0",
-      "logoUri": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg"
+      "logoUri": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg",
+      "tokenListFile": "arbitrum.json"
     },
     {
       "chainId": 10,
@@ -82,7 +86,8 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#FF0420",
-      "logoUri": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png"
+      "logoUri": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png",
+      "tokenListFile": "optimism.json"
     },
     {
       "chainId": 8453,
@@ -98,7 +103,8 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#0052FF",
-      "logoUri": "https://assets.coingecko.com/coins/images/34092/small/Base_Symbol_Blue.png"
+      "logoUri": "https://assets.coingecko.com/coins/images/34092/small/Base_Symbol_Blue.png",
+      "tokenListFile": "base.json"
     },
     {
       "chainId": 6736,
@@ -112,7 +118,8 @@
       "coinGeckoId": "vexanium",
       "decimals": 18,
       "color": "#FFFFFF",
-      "logoUri": "https://assets.coingecko.com/coins/images/3845/standard/pict-vexanium.png?1696504510"
+      "logoUri": "https://assets.coingecko.com/coins/images/3845/standard/pict-vexanium.png?1696504510",
+      "tokenListFile": "vexanium.json"
     }
   ]
 }
