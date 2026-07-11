@@ -109,7 +109,7 @@
         "https://vexascan.com/rpc"
       ],
       "explorerUrl": "https://vexascan.com/evm",
-      "coinGeckoId": "ethereum",
+      "coinGeckoId": "vexanium",
       "decimals": 18,
       "color": "#FFFFFF",
       "logoUri": "https://assets.coingecko.com/coins/images/3845/standard/pict-vexanium.png?1696504510"
