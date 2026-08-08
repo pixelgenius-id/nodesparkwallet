@@ -236,7 +236,7 @@
       "color": "#FFFFFF",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/vexanium.png",
       "tokenListFile": "vexanium.json",
-      "explorerApiUrl": ""
+      "explorerApiUrl": "https://vexascan.com/api/v1/evm"
     }
   ]
 }
