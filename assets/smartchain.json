@@ -18,6 +18,20 @@
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/usdc.png"
     },
     {
+      "address": "0xbe9D156892E55e7154BcD3cB0FEA677F9D3103E1",
+      "name": "SpaceX",
+      "symbol": "SPCXB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102173888/standard/bstocks_spacex.png?1781280362"
+    },
+    {
+      "address": "0x02fca66c1d1afb4e2a7884261eb00f63598a7436",
+      "name": "NVIDIA Corp",
+      "symbol": "NVDAB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102173743/standard/nvidia-tokenized-bStocks-nvdab.png?1781196662"
+    },
+    {
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
       "name": "PancakeSwap Token",
       "symbol": "CAKE",
