@@ -88,6 +88,13 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg"
     },
     {
+      "address": "0x6a346919dCbf892c9305757D4FeD78939C072A6F",
+      "name": "Vexanium",
+      "symbol": "VEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/vexanium.png"
+    },
+    {
       "address": "0x7A71eB5C1542b8F025950916AE74AFbba60A20Fc",
       "name": "NodeSpark",
       "symbol": "SPARK",
