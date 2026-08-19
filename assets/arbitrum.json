@@ -62,6 +62,139 @@
       "symbol": "GMX",
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/18323/small/arbit.png"
+    },
+    {
+      "address": "0x6314C31A7a1652cE482cffe247E9CB7c3f4BB9aF",
+      "name": "1INCH",
+      "symbol": "1INCH",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13469/small/1inch-logo.jpeg?1759404663"
+    },
+    {
+      "address": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12645/small/aave-token-round.png?1720472354"
+    },
+    {
+      "address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8",
+      "name": "Balancer",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/11683/small/Balancer.png?1696511572"
+    },
+    {
+      "address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/10775/small/COMP.png?1696510737"
+    },
+    {
+      "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12124/small/Curve.png?1696511967"
+    },
+    {
+      "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+      "name": "Gains Network",
+      "symbol": "GNS",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/19737/small/logo.png?1696519161"
+    },
+    {
+      "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+      "name": "Camelot Token",
+      "symbol": "GRAIL",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/28416/small/vj5DIMhP_400x400.jpeg?1696527414"
+    },
+    {
+      "address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
+      "name": "The Graph",
+      "symbol": "GRT",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13397/small/Graph_Token.png?1696513159"
+    },
+    {
+      "address": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
+      "name": "Lido DAO",
+      "symbol": "LDO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13573/small/Lido_DAO.png?1696513326"
+    },
+    {
+      "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/15069/small/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+      "name": "Radiant Capital",
+      "symbol": "RDNT",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/26536/small/Radiant-Logo-200x200.png?1696525610"
+    },
+    {
+      "address": "0xB766039cc6DB368759C1E56B79AFfE831d0Cc507",
+      "name": "Rocket Pool",
+      "symbol": "RPL",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/2090/small/rocket_pool_%28RPL%29.png?1696503058"
+    },
+    {
+      "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+      "name": "Stargate Finance",
+      "symbol": "STG",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/24413/small/STG_LOGO.png?1696523595"
+    },
+    {
+      "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
+      "name": "Sushi",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1696512101"
+    },
+    {
+      "address": "0x080F6AEd32Fc474DD5717105Dba5ea57268F46eb",
+      "name": "Synapse",
+      "symbol": "SYN",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/18024/small/synapse_social_icon.png?1696517540"
+    },
+    {
+      "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12504/small/uniswap-logo.png?1720676669"
+    },
+    {
+      "address": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+      "name": "Wormhole",
+      "symbol": "W",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/35087/small/W_Token_%283%29.png?1758122686"
+    },
+    {
+      "address": "0x82e3A8F066a6989666b031d916c43672085b1582",
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/11849/small/yearn.jpg?1696511720"
+    },
+    {
+      "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/28206/small/ftxG9_TJ_400x400.jpeg?1696527208"
     }
   ]
 }

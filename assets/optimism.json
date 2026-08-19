@@ -62,6 +62,90 @@
       "symbol": "VELO",
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/25783/small/velo.png"
+    },
+    {
+      "address": "0xAd42D013ac31486B73b6b059e748172994736426",
+      "name": "1INCH",
+      "symbol": "1INCH",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13469/small/1inch-logo.jpeg?1759404663"
+    },
+    {
+      "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12645/small/aave-token-round.png?1720472354"
+    },
+    {
+      "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+      "name": "Balancer",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/11683/small/Balancer.png?1696511572"
+    },
+    {
+      "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12124/small/Curve.png?1696511967"
+    },
+    {
+      "address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
+      "name": "Lido DAO",
+      "symbol": "LDO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13573/small/Lido_DAO.png?1696513326"
+    },
+    {
+      "address": "0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/15069/small/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+      "name": "Synthetix",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/3406/small/SNX.png?1696504103"
+    },
+    {
+      "address": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97",
+      "name": "Stargate Finance",
+      "symbol": "STG",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/24413/small/STG_LOGO.png?1696523595"
+    },
+    {
+      "address": "0x5A5fFf6F753d7C11A56A52FE47a177a87e431655",
+      "name": "Synapse",
+      "symbol": "SYN",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/18024/small/synapse_social_icon.png?1696517540"
+    },
+    {
+      "address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12504/small/uniswap-logo.png?1720676669"
+    },
+    {
+      "address": "0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B",
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/11849/small/yearn.jpg?1696511720"
+    },
+    {
+      "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/28206/small/ftxG9_TJ_400x400.jpeg?1696527208"
     }
   ]
 }
