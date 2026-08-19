@@ -1,7 +1,11 @@
 {
   "name": "NodeSpark Wallet - Arbitrum One",
   "chainId": 42161,
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "tokens": [
     {
       "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
@@ -51,6 +55,13 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+    },
+    {
+      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "name": "GMX",
+      "symbol": "GMX",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/18323/small/arbit.png"
     }
   ]
 }

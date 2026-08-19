@@ -1,7 +1,11 @@
 {
   "name": "NodeSpark Wallet - Polygon",
   "chainId": 137,
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "tokens": [
     {
       "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
@@ -51,6 +55,13 @@
       "symbol": "WMATIC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/4713/small/polygon.png"
+    },
+    {
+      "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+      "name": "Quickswap",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/25393/small/quickswap.png"
     }
   ]
 }
