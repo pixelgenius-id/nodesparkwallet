@@ -3612,6 +3612,13 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/yearon_160x160.png",
       "isOndoStock": true
+    },
+    {
+      "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/11939/small/shiba.png"
     }
   ]
 }
