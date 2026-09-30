@@ -2,7 +2,7 @@
   "name": "NodeSpark Wallet - Supported Chains",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "chains": [
@@ -29,10 +29,10 @@
       "chainId": 56,
       "name": "BNB Smart Chain",
       "symbol": "BNB",
-      "rpcUrl": "https://bsc-dataseed.binance.org",
+      "rpcUrl": "https://bsc-rpc.publicnode.com",
       "rpcUrls": [
-        "https://bsc-dataseed1.defibit.io",
-        "https://bsc-dataseed2.defibit.io",
+        "https://bsc-dataseed1.bnbchain.org",
+        "https://bsc-dataseed2.bnbchain.org",
         "https://rpc.ankr.com/bsc",
         "https://bsc.llamarpc.com"
       ],
