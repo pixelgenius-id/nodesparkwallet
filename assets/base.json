@@ -12,21 +12,24 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/usdc.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/usdc.png",
+      "groupingId": "usdc"
     },
     {
       "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9956/small/Badge_Dai.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/small/Badge_Dai.png",
+      "groupingId": "dai"
     },
     {
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png",
+      "groupingId": "weth"
     },
     {
       "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
@@ -40,7 +43,8 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether.png",
+      "groupingId": "usdt"
     },
     {
       "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
@@ -54,105 +58,120 @@
       "name": "1INCH",
       "symbol": "1INCH",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/13469/small/1inch-logo.jpeg?1759404663"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13469/small/1inch-logo.jpeg?1759404663",
+      "groupingId": "1inch"
     },
     {
       "address": "0x63706e401c06ac8513145b7687A14804d17f814b",
       "name": "Aave",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/12645/small/aave-token-round.png?1720472354"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12645/small/aave-token-round.png?1720472354",
+      "groupingId": "aave"
     },
     {
       "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/11683/small/Balancer.png?1696511572"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/11683/small/Balancer.png?1696511572",
+      "groupingId": "bal"
     },
     {
       "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
       "name": "Compound",
       "symbol": "COMP",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/10775/small/COMP.png?1696510737"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/10775/small/COMP.png?1696510737",
+      "groupingId": "comp"
     },
     {
       "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
       "name": "Curve DAO",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/12124/small/Curve.png?1696511967"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12124/small/Curve.png?1696511967",
+      "groupingId": "crv"
     },
     {
       "address": "0xFB1Aaba03c31EA98A3eEC7591808AcB1947ee7Ac",
       "name": "Gains Network",
       "symbol": "GNS",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/19737/small/logo.png?1696519161"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/19737/small/logo.png?1696519161",
+      "groupingId": "gns"
     },
     {
       "address": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E",
       "name": "Pendle",
       "symbol": "PENDLE",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/15069/small/Pendle_Logo_Normal-03.png?1696514728"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/15069/small/Pendle_Logo_Normal-03.png?1696514728",
+      "groupingId": "pendle"
     },
     {
       "address": "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4",
       "name": "Radiant Capital",
       "symbol": "RDNT",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/26536/small/Radiant-Logo-200x200.png?1696525610"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/26536/small/Radiant-Logo-200x200.png?1696525610",
+      "groupingId": "rdnt"
     },
     {
       "address": "0x22e6966B799c4D5B13BE962E1D117b56327FDa66",
       "name": "Synthetix",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/3406/small/SNX.png?1696504103"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/3406/small/SNX.png?1696504103",
+      "groupingId": "snx"
     },
     {
       "address": "0xE3B53AF74a4BF62Ae5511055290838050bf764Df",
       "name": "Stargate Finance",
       "symbol": "STG",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/24413/small/STG_LOGO.png?1696523595"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/24413/small/STG_LOGO.png?1696523595",
+      "groupingId": "stg"
     },
     {
       "address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
       "name": "Sushi",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1696512101"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1696512101",
+      "groupingId": "sushi"
     },
     {
       "address": "0x432036208d2717394d2614d6697c46DF3Ed69540",
       "name": "Synapse",
       "symbol": "SYN",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/18024/small/synapse_social_icon.png?1696517540"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/18024/small/synapse_social_icon.png?1696517540",
+      "groupingId": "syn"
     },
     {
       "address": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
       "name": "Wormhole",
       "symbol": "W",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/35087/small/W_Token_%283%29.png?1758122686"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/35087/small/W_Token_%283%29.png?1758122686",
+      "groupingId": "w"
     },
     {
       "address": "0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239",
       "name": "yearn.finance",
       "symbol": "YFI",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/11849/small/yearn.jpg?1696511720"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/11849/small/yearn.jpg?1696511720",
+      "groupingId": "yfi"
     },
     {
       "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
       "name": "LayerZero",
       "symbol": "ZRO",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/28206/small/ftxG9_TJ_400x400.jpeg?1696527208"
+      "logoURI": "https://coin-images.coingecko.com/coins/images/28206/small/ftxG9_TJ_400x400.jpeg?1696527208",
+      "groupingId": "zro"
     }
   ]
 }
