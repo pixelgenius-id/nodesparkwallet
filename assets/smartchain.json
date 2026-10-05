@@ -13,7 +13,7 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether.png",
-      "groupingId": "usdt"
+      "groupingId": 825
     },
     {
       "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
@@ -21,7 +21,7 @@
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/usdc.png",
-      "groupingId": "usdc"
+      "groupingId": 3408
     },
     {
       "address": "0xbe9D156892E55e7154BcD3cB0FEA677F9D3103E1",
@@ -86,7 +86,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aalon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aalon"
+      "groupingId": 100001
     },
     {
       "address": "0x149Bda9e7251DC36f536d1fE7F92A5ea203F4F3D",
@@ -95,7 +95,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aaoion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aaoion"
+      "groupingId": 100002
     },
     {
       "address": "0x0B61036b5182A29A228d8eD9e647a16f62baD1bC",
@@ -104,7 +104,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aaonon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aaonon"
+      "groupingId": 100003
     },
     {
       "address": "0x390a684EF9cADE28A7AD0DFa61AB1Eb3842618c4",
@@ -113,7 +113,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aaplon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aaplon"
+      "groupingId": 100004
     },
     {
       "address": "0x8677abad7B458Bf16A0Fb2676Dfc7D3F55aC202a",
@@ -122,7 +122,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/abbvon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "abbvon"
+      "groupingId": 100005
     },
     {
       "address": "0xEf80743f78d98FC2B47a2253B293152ce8B879ba",
@@ -131,7 +131,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/abnbon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "abnbon"
+      "groupingId": 100006
     },
     {
       "address": "0x5a20886b575058dd7299785f0Ea9b1172942a3E0",
@@ -140,7 +140,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/abton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "abton"
+      "groupingId": 100007
     },
     {
       "address": "0x91C62325F901ee29da8E521cFe68980332A4cA06",
@@ -149,7 +149,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/achron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "achron"
+      "groupingId": 100008
     },
     {
       "address": "0xF2e14fCE9259C8A7903c4be5326058aE2D004FC7",
@@ -158,7 +158,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aclson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aclson"
+      "groupingId": 100009
     },
     {
       "address": "0xC5EFD0c3a8fF6D9816DA7B56625aB4C398Eb9e08",
@@ -167,7 +167,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/acmron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "acmron"
+      "groupingId": 100010
     },
     {
       "address": "0x7aF44d51d1fb88c5b74Fc71d3cba649Bb8099D14",
@@ -176,7 +176,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/acnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "acnon"
+      "groupingId": 100011
     },
     {
       "address": "0xcB22Db0EcB6fe58B7B47db443dCFdfDFbF729CEf",
@@ -185,7 +185,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/adbeon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "adbeon"
+      "groupingId": 100012
     },
     {
       "address": "0x0e246e05212DbbD78A354c072A92b4e5723B2fA0",
@@ -194,7 +194,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/adion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "adion"
+      "groupingId": 100013
     },
     {
       "address": "0xdCE0957E22F7baf2AA1a50d854e03cEe6f215004",
@@ -203,7 +203,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aehron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aehron"
+      "groupingId": 100014
     },
     {
       "address": "0x08cE97F3D5Cf11E577D091ab048bC5e2EaE3FABB",
@@ -212,7 +212,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aggon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aggon"
+      "groupingId": 100015
     },
     {
       "address": "0xa2a97e3d6140e8ccD058f3b84230F3E1a349b1a3",
@@ -221,7 +221,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/agon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "agon"
+      "groupingId": 100016
     },
     {
       "address": "0xaE922B6cc2371B6Dce592A82Fac15ef890a7D467",
@@ -230,7 +230,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aipon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aipon"
+      "groupingId": 100017
     },
     {
       "address": "0x333932F15E6E14f4a630163D3224548a721DdfA4",
@@ -239,7 +239,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aiqon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aiqon"
+      "groupingId": 100018
     },
     {
       "address": "0x573e11CC667A8E5BE0c7Af2410403371088D3d0D",
@@ -248,7 +248,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/alabon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "alabon"
+      "groupingId": 100019
     },
     {
       "address": "0x0B790ABd6594918DE1022233b7cc79baDB84d92a",
@@ -257,7 +257,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/albon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "albon"
+      "groupingId": 100020
     },
     {
       "address": "0x941e3a7A6fC97B094C63a0348367cf90D93Ff090",
@@ -266,7 +266,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aloyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aloyon"
+      "groupingId": 100021
     },
     {
       "address": "0x5EcC352c4640f1d26bD231dBbD171F40F7d0eeC6",
@@ -275,7 +275,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/amaton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "amaton"
+      "groupingId": 100022
     },
     {
       "address": "0x1D7B5e06fDBe4fd33f5C64C081E32b5D539751d0",
@@ -284,7 +284,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/amcon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "amcon"
+      "groupingId": 100023
     },
     {
       "address": "0x9f16E46c73b43BDB70861247d537bEE4eA18F639",
@@ -293,7 +293,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/amdon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "amdon"
+      "groupingId": 100024
     },
     {
       "address": "0x7a5bD36047A9D15C90FA79b0654De8dd9d6eBbB1",
@@ -302,7 +302,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ameon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ameon"
+      "groupingId": 100025
     },
     {
       "address": "0xFBdF0366F800CC79D6663dA26bC0BF21fB455AA6",
@@ -311,7 +311,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/amgnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "amgnon"
+      "groupingId": 100026
     },
     {
       "address": "0xb84e150A1d18380cFeEeBCdE8756368dD489A1A3",
@@ -320,7 +320,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/amkron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "amkron"
+      "groupingId": 100027
     },
     {
       "address": "0x4553cFe1C09f37f38b12dC509F676964e392F8Fc",
@@ -329,7 +329,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/amznon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "amznon"
+      "groupingId": 100028
     },
     {
       "address": "0x538e2838f9EBC9B891399df4a8dcc42890D9dC20",
@@ -338,7 +338,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aneton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aneton"
+      "groupingId": 100029
     },
     {
       "address": "0x55B8cc618C4209A97250Dff926d3d708814d36aa",
@@ -347,7 +347,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aoslon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aoslon"
+      "groupingId": 100030
     },
     {
       "address": "0x70AfC3a600f843d2018dF16B0b316E4BC9c603E9",
@@ -356,7 +356,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/aphon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "aphon"
+      "groupingId": 100031
     },
     {
       "address": "0x18De24acb876C0B8392d9C55583Bb21c0355980b",
@@ -365,7 +365,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/apldon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "apldon"
+      "groupingId": 100032
     },
     {
       "address": "0x5630B5741A33371D9d935283849A16dC808f7F3A",
@@ -374,7 +374,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/apoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "apoon"
+      "groupingId": 100033
     },
     {
       "address": "0xEDB3124e96c64C177Eb709CbC64F9977dB40Ea74",
@@ -383,7 +383,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/appon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "appon"
+      "groupingId": 100034
     },
     {
       "address": "0x2b08f1c28Cb1EdE3b11D397929F00215fA97ecFA",
@@ -392,7 +392,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/argton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "argton"
+      "groupingId": 100035
     },
     {
       "address": "0x527C6436E1eAa4f2065CDE4090F798Cb5D031dD6",
@@ -401,7 +401,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/armon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "armon"
+      "groupingId": 100036
     },
     {
       "address": "0x1161989389A991532dCE453D04d6346C2581c907",
@@ -410,7 +410,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/arqqon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "arqqon"
+      "groupingId": 100037
     },
     {
       "address": "0xb034f6Cb52b7f2Fd5a7EeeffCa6b9aDCD6b9A6F6",
@@ -419,7 +419,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/asmlon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "asmlon"
+      "groupingId": 100038
     },
     {
       "address": "0x45Abf29515bc23F8c0Ed2a06584444cE473A75FB",
@@ -428,7 +428,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/astson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "astson"
+      "groupingId": 100039
     },
     {
       "address": "0xaFAA2087093b7B396ADAB8216506D9066c6A6F13",
@@ -437,7 +437,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/atkron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "atkron"
+      "groupingId": 100040
     },
     {
       "address": "0x66a1409FE303d00209202933e3d31eE43AaAB39d",
@@ -446,7 +446,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/auron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "auron"
+      "groupingId": 100041
     },
     {
       "address": "0x0ED2E3180EDf393e6bf8Db124bD15DDD54dE150A",
@@ -455,7 +455,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/avgoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "avgoon"
+      "groupingId": 100042
     },
     {
       "address": "0xD803f8777187D6DEe1eA57854aEB957043fb1675",
@@ -464,7 +464,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/axpon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "axpon"
+      "groupingId": 100043
     },
     {
       "address": "0x0C50323AF81D5C33822c6Add256Fb9093D42BC74",
@@ -473,7 +473,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/axtion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "axtion"
+      "groupingId": 100044
     },
     {
       "address": "0xd5964f3fcee8D649995AB88F04b8982539c282D2",
@@ -482,7 +482,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/babaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "babaon"
+      "groupingId": 100045
     },
     {
       "address": "0xd615468088B19FB9D4f03cB3ce9e33876fF3dB99",
@@ -491,7 +491,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/bacon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "bacon"
+      "groupingId": 100046
     },
     {
       "address": "0x2659Dd96deF34ceD3679901E5500779BE297fE5a",
@@ -500,7 +500,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/baion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "baion"
+      "groupingId": 100047
     },
     {
       "address": "0xf21132A811Ad1A878E21Af60F64d4e690C9DaA42",
@@ -509,7 +509,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/baon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "baon"
+      "groupingId": 100048
     },
     {
       "address": "0x7Ba995f1662a01F3BE0dc299CE94bB7E9C7075F5",
@@ -518,7 +518,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/bbaion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "bbaion"
+      "groupingId": 100049
     },
     {
       "address": "0x17D03aE104a9D12E9E5794Efb109B817Dd7f3404",
@@ -527,7 +527,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/beon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "beon"
+      "groupingId": 100050
     },
     {
       "address": "0x467e59ce5D5fe01686D4A80dd1E1DAE13549AA6c",
@@ -536,7 +536,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/biduon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "biduon"
+      "groupingId": 100051
     },
     {
       "address": "0x91Fc7371D6de682A1E8CFcb4eb7da693312a03a4",
@@ -545,7 +545,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/bilion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "bilion"
+      "groupingId": 100052
     },
     {
       "address": "0x03f09E2EF6e64D804a5579E21E7b519db174cf54",
@@ -554,7 +554,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/bilon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "bilon"
+      "groupingId": 100053
     },
     {
       "address": "0x940F442746D9ae699e63C378d52c4494EA02684F",
@@ -563,7 +563,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/bincon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "bincon"
+      "groupingId": 100054
     },
     {
       "address": "0x2291E5361F4ef7bB0d6703377bF497bFe4325152",
@@ -572,7 +572,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/bkchon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "bkchon"
+      "groupingId": 100055
     },
     {
       "address": "0x398aE5B33505f121C359f22B300FbcFa81DB79AE",
@@ -581,7 +581,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/blcron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "blcron"
+      "groupingId": 100056
     },
     {
       "address": "0x24F5471183eA549987f245D6ce236B6108869C92",
@@ -590,7 +590,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/blkon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "blkon"
+      "groupingId": 100057
     },
     {
       "address": "0xFbE22d27b6E153244882FD7BdFE7C6109918281B",
@@ -599,7 +599,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/blshon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "blshon"
+      "groupingId": 100058
     },
     {
       "address": "0x52AD57a7eA642E99a892AfC79E937B383f1B59E9",
@@ -608,7 +608,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/bmnron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "bmnron"
+      "groupingId": 100059
     },
     {
       "address": "0x5f2d37192576a6804F44722eB828E280D5FB43Dc",
@@ -617,7 +617,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/bnoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "bnoon"
+      "groupingId": 100060
     },
     {
       "address": "0xC43Ae29aFE58bf90dA6Fe3Edd570C2E735fb2850",
@@ -626,7 +626,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/boton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "boton"
+      "groupingId": 100061
     },
     {
       "address": "0xb42f5597EAdd424de67b46Fe5d1EC4b61367A4e5",
@@ -635,7 +635,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/botzon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "botzon"
+      "groupingId": 100062
     },
     {
       "address": "0x6860a2f969A8133A23421ddce21397995139D7e8",
@@ -644,7 +644,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/brhyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "brhyon"
+      "groupingId": 100063
     },
     {
       "address": "0xD41829Dec8b51119176Ee0a6b73BC8B2718546A9",
@@ -653,7 +653,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/brlnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "brlnon"
+      "groupingId": 100064
     },
     {
       "address": "0x463196CC72cBad2D1AC1896CDE0766bfBBd64443",
@@ -662,7 +662,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/brtron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "brtron"
+      "groupingId": 100065
     },
     {
       "address": "0x3A562836AFB1026F5D7A6B6dA1125D27fdfeE372",
@@ -671,7 +671,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/btdron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "btdron"
+      "groupingId": 100066
     },
     {
       "address": "0xE2Ac868f2fd097086d83Bc939248E5aE08d35da4",
@@ -680,7 +680,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/btgon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "btgon"
+      "groupingId": 100067
     },
     {
       "address": "0x5fA699c0c1319b8D86489AF77dFDe4Fa97B47DF8",
@@ -689,7 +689,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/btgoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "btgoon"
+      "groupingId": 100068
     },
     {
       "address": "0x472F46C5D7409C82234701EFf7D4DDA4c28B5a93",
@@ -698,7 +698,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/bweton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "bweton"
+      "groupingId": 100069
     },
     {
       "address": "0xc2C7FCdDC37f6737CA2481EbDA6B81ee279fe20c",
@@ -707,7 +707,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/bzon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "bzon"
+      "groupingId": 100070
     },
     {
       "address": "0xc2f65e745Fd13af1d00d5c81dD33F762FB81C264",
@@ -716,7 +716,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/camton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "camton"
+      "groupingId": 100071
     },
     {
       "address": "0x812Fc2943371C952c6c8Daf99Fe665Eb0e40Cd27",
@@ -725,7 +725,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/capron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "capron"
+      "groupingId": 100072
     },
     {
       "address": "0x274b0cB6dB9473245a31Cdea9b789786f4108e4B",
@@ -734,7 +734,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/caton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "caton"
+      "groupingId": 100073
     },
     {
       "address": "0x441a4D4Fc23f17F4cf23E3d60F12d2BD6F176728",
@@ -743,7 +743,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cbrson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cbrson"
+      "groupingId": 100074
     },
     {
       "address": "0xa75F08b9a91439DAac9cc7072857cC0a98Cf527A",
@@ -752,7 +752,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ccjon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ccjon"
+      "groupingId": 100075
     },
     {
       "address": "0x65D84F0990b7394209D591380C2952c83D778Aa3",
@@ -761,7 +761,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cegon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cegon"
+      "groupingId": 100076
     },
     {
       "address": "0x8B68b3D3173c406D2C5F4f2107D54E6562A23120",
@@ -770,7 +770,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cevaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cevaon"
+      "groupingId": 100077
     },
     {
       "address": "0xDcd4536508060dab8F43C334B3a6C72c39528DA5",
@@ -779,7 +779,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cibron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cibron"
+      "groupingId": 100078
     },
     {
       "address": "0x89a9F7114bE6b220fAe645ba0cbB720889867415",
@@ -788,7 +788,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cienon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cienon"
+      "groupingId": 100079
     },
     {
       "address": "0xDAD07d0ca26ED4109BC00893dBEe3eD4cE8ce2A4",
@@ -797,7 +797,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cifron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cifron"
+      "groupingId": 100080
     },
     {
       "address": "0xaC38a6608868e2f487d7993EA7339C69e5AB077b",
@@ -806,7 +806,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/clfon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "clfon"
+      "groupingId": 100081
     },
     {
       "address": "0x4EF383F521e803863a33FCa8F3f861e53EF9ef9B",
@@ -815,7 +815,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cloaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cloaon"
+      "groupingId": 100082
     },
     {
       "address": "0xD7E3317D54473dAb04135Fb0676623F237ff5ca9",
@@ -824,7 +824,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cloion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cloion"
+      "groupingId": 100083
     },
     {
       "address": "0x7b695132b165cb6703F0212bBB1e91A782526156",
@@ -833,7 +833,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/clson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "clson"
+      "groupingId": 100084
     },
     {
       "address": "0xAed5985afC12aA09d87F55B4b1e6bC3B8f7B0208",
@@ -842,7 +842,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cmgon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cmgon"
+      "groupingId": 100085
     },
     {
       "address": "0x53A8C5fC5643b437779742f494691E6B7C660a8B",
@@ -851,7 +851,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cofon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cofon"
+      "groupingId": 100086
     },
     {
       "address": "0x0585756aAFB241b0f8A9Df62Db26c566091Bde0b",
@@ -860,7 +860,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cohron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cohron"
+      "groupingId": 100087
     },
     {
       "address": "0x58cE0De0CED164f2Aeab5FCf81D67f3c61CB562C",
@@ -869,7 +869,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cohuon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cohuon"
+      "groupingId": 100088
     },
     {
       "address": "0xf8589b526FdD65F7F301c605a6e04F0F1b4B3620",
@@ -878,7 +878,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/coinon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "coinon"
+      "groupingId": 100089
     },
     {
       "address": "0x8ddB97556F6ae98B4D408C56b167139fE1Cbe3e8",
@@ -887,7 +887,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/con_160x160.png",
       "isOndoStock": true,
-      "groupingId": "con"
+      "groupingId": 100090
     },
     {
       "address": "0x0D586B51a90DC999f9bB6a0506da7F034A1D3A2E",
@@ -896,7 +896,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/copon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "copon"
+      "groupingId": 100091
     },
     {
       "address": "0xEc93fE7fF4B09CA3CcafBc4CC9615E62BE412780",
@@ -905,7 +905,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/copxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "copxon"
+      "groupingId": 100092
     },
     {
       "address": "0x23def658ea0B4081161d9AB8fDfEef5345bcaFBD",
@@ -914,7 +914,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/coroon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "coroon"
+      "groupingId": 100093
     },
     {
       "address": "0x25eD86472cf3012607DC6576c58e6432968255C2",
@@ -923,7 +923,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/corzon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "corzon"
+      "groupingId": 100094
     },
     {
       "address": "0x34375f826fD3dD4E15F883d4F4786bB45eb705ac",
@@ -932,7 +932,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/coston_160x160.png",
       "isOndoStock": true,
-      "groupingId": "coston"
+      "groupingId": 100095
     },
     {
       "address": "0x0888EDfeC4C0A66FCE074796CF4F6509c00f6c49",
@@ -941,7 +941,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cperon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cperon"
+      "groupingId": 100096
     },
     {
       "address": "0x19904Bc04C09E5D29ed216ddd105bdf103A0Ba2D",
@@ -950,7 +950,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cpngon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cpngon"
+      "groupingId": 100097
     },
     {
       "address": "0x992879Cd8ce0c312d98648875B5A8D6D042cbF34",
@@ -959,7 +959,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/crclon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "crclon"
+      "groupingId": 100098
     },
     {
       "address": "0xf157481bEBd0C0686780fd0F61806C900A6137e8",
@@ -968,7 +968,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/crdoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "crdoon"
+      "groupingId": 100099
     },
     {
       "address": "0xD04a2BB053277721a8321d7441eEd5b42FDF7250",
@@ -977,7 +977,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/crmon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "crmon"
+      "groupingId": 100100
     },
     {
       "address": "0xE6837794FBC6DD024733a1A31F86061296fa2752",
@@ -986,7 +986,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/crwdon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "crwdon"
+      "groupingId": 100101
     },
     {
       "address": "0x76E39171Cb665a35981e744e2CEB7012F76caEAc",
@@ -995,7 +995,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/crwvon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "crwvon"
+      "groupingId": 100102
     },
     {
       "address": "0x34304f2f7cC487eb4186e6D69F5905A613474aA2",
@@ -1004,7 +1004,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cscoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cscoon"
+      "groupingId": 100103
     },
     {
       "address": "0xc145DC2eBDBe8Ead1fEcdEBF46C76EB1fDD0104D",
@@ -1013,7 +1013,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cvnaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cvnaon"
+      "groupingId": 100104
     },
     {
       "address": "0xD3113A0AD20a46F6a662C63fe8E637f7713E59c7",
@@ -1022,7 +1022,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/cvxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "cvxon"
+      "groupingId": 100105
     },
     {
       "address": "0x7567c2a46BCE46373b454682F3d95e6535BDe144",
@@ -1031,7 +1031,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/dashon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "dashon"
+      "groupingId": 100106
     },
     {
       "address": "0xFC2067E3E6a289c205151d96ef67A032F339566D",
@@ -1040,7 +1040,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/dbcon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "dbcon"
+      "groupingId": 100107
     },
     {
       "address": "0xf26518958935654878De15BE7bC79A26971583Ba",
@@ -1049,7 +1049,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/dellon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "dellon"
+      "groupingId": 100108
     },
     {
       "address": "0x90ccBB75d61cB65cd73a3abb5dF04A75961612b7",
@@ -1058,7 +1058,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/deon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "deon"
+      "groupingId": 100109
     },
     {
       "address": "0x1cd89241b26fCdc421FD02907d6504c8ABbfE1bC",
@@ -1067,7 +1067,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/dgrwon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "dgrwon"
+      "groupingId": 100110
     },
     {
       "address": "0x09f5a6ee1b46787dd252827E40502c4980a0285d",
@@ -1076,7 +1076,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/dgxxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "dgxxon"
+      "groupingId": 100111
     },
     {
       "address": "0xeEe9eeE593cB8f7946260B4066CBa7907f40ACFa",
@@ -1085,7 +1085,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/dison_160x160.png",
       "isOndoStock": true,
-      "groupingId": "dison"
+      "groupingId": 100112
     },
     {
       "address": "0x70bd780076e25d087ED9c35f4E4A540522abe8cF",
@@ -1094,7 +1094,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/dnnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "dnnon"
+      "groupingId": 100113
     },
     {
       "address": "0x087b5761b161429013d41eA54cd2fb6022A21564",
@@ -1103,7 +1103,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/dramon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "dramon"
+      "groupingId": 100114
     },
     {
       "address": "0x2A0A317660F497d4c4836d1ef5fAF5970e69437b",
@@ -1112,7 +1112,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/drson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "drson"
+      "groupingId": 100115
     },
     {
       "address": "0xEc4C1944682B8c7ba6c825e9A8B2B32Cb5EcacE5",
@@ -1121,7 +1121,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/dtcron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "dtcron"
+      "groupingId": 100116
     },
     {
       "address": "0x96A1b43C8146E6D1f6e66B226A3c520CbE3d8a50",
@@ -1130,7 +1130,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/dynfon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "dynfon"
+      "groupingId": 100117
     },
     {
       "address": "0x551f8Db0da800C910E12Cf991eac306714481685",
@@ -1139,7 +1139,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/echon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "echon"
+      "groupingId": 100118
     },
     {
       "address": "0x660ab35bE0f102A1d4d4B60A96Ac3abfd345e038",
@@ -1148,7 +1148,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ecoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ecoon"
+      "groupingId": 100119
     },
     {
       "address": "0x00c81d35edDF44c75d4Db9E07bDCdC236eB0ebcf",
@@ -1157,7 +1157,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/eemon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "eemon"
+      "groupingId": 100120
     },
     {
       "address": "0x38B9A53bfDc5dba58a29bD6992341927C2fca637",
@@ -1166,7 +1166,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/efaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "efaon"
+      "groupingId": 100121
     },
     {
       "address": "0x40375E3Dd70232eaF264706e5662b90A079e3D31",
@@ -1175,7 +1175,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/efvon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "efvon"
+      "groupingId": 100122
     },
     {
       "address": "0x60B273bDf00a9A52238Ca706257f61efc55bDeE0",
@@ -1184,7 +1184,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/emron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "emron"
+      "groupingId": 100123
     },
     {
       "address": "0x5397cB3f1E419050D9d7160756dE0f4eD4f5f898",
@@ -1193,7 +1193,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/enbon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "enbon"
+      "groupingId": 100124
     },
     {
       "address": "0x5A9D924FC336A5EC8cf3B1909aA660533B50b015",
@@ -1202,7 +1202,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/enlvon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "enlvon"
+      "groupingId": 100125
     },
     {
       "address": "0x30938154E2697694F41592C2e48459287dEBe4BF",
@@ -1211,7 +1211,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/enphon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "enphon"
+      "groupingId": 100126
     },
     {
       "address": "0xfB4a89A077B9020C7101b1Af760BEB708F37a416",
@@ -1220,7 +1220,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/entgon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "entgon"
+      "groupingId": 100127
     },
     {
       "address": "0xE4E12c9CEc3e8cAE405202A97f66AFA695075fa0",
@@ -1229,7 +1229,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/eqixon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "eqixon"
+      "groupingId": 100128
     },
     {
       "address": "0x9A1C88ac479906A7f03e76605b15B72DF10d8E51",
@@ -1238,7 +1238,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/eqton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "eqton"
+      "groupingId": 100129
     },
     {
       "address": "0x04B16ff1F9673146F68AA5d5F57aA45AdcF068E1",
@@ -1247,7 +1247,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ethaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ethaon"
+      "groupingId": 100130
     },
     {
       "address": "0x4697b2A050f7B5A8e1ebc27c325f9D78D094f041",
@@ -1256,7 +1256,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/etnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "etnon"
+      "groupingId": 100131
     },
     {
       "address": "0x93eb8376ec73dD07F46ba7ae1EE9b0bbD937Ad93",
@@ -1265,7 +1265,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/euhyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "euhyon"
+      "groupingId": 100132
     },
     {
       "address": "0x82715299f3f132FB85f3De1F7e8fAfd3d79f3eB5",
@@ -1274,7 +1274,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ewjon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ewjon"
+      "groupingId": 100133
     },
     {
       "address": "0x12B7aDC48416A103F63E7e6210f62C81dfB91fD0",
@@ -1283,7 +1283,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ewyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ewyon"
+      "groupingId": 100134
     },
     {
       "address": "0x9876F4b879cDe9Aa49Ffd260034A0698B7B33A49",
@@ -1292,7 +1292,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ewzon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ewzon"
+      "groupingId": 100135
     },
     {
       "address": "0x92d504158A8Dc69de989dB5EDe3230D958fb8630",
@@ -1301,7 +1301,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/exodon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "exodon"
+      "groupingId": 100136
     },
     {
       "address": "0x1EadA1306DF72A5607827416c1A1307d7056dFFf",
@@ -1310,7 +1310,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/extron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "extron"
+      "groupingId": 100137
     },
     {
       "address": "0x47Bfe4921Bd74C66c6B0C35C517aBdFB5E3BAFb3",
@@ -1319,7 +1319,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/fcelon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "fcelon"
+      "groupingId": 100138
     },
     {
       "address": "0xE3b17E6D290A0F28bd32aF4064637057627004D5",
@@ -1328,7 +1328,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/fcxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "fcxon"
+      "groupingId": 100139
     },
     {
       "address": "0xEA130432a9feE9ca1A7eDa84028650d38Bd0E232",
@@ -1337,7 +1337,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ffogon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ffogon"
+      "groupingId": 100140
     },
     {
       "address": "0xee0d57462f20434030B8262204c00c0eA0399C41",
@@ -1346,7 +1346,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/fgdlon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "fgdlon"
+      "groupingId": 100141
     },
     {
       "address": "0x93fac02b22B6743423381D163aec418178019B7a",
@@ -1355,7 +1355,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/figon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "figon"
+      "groupingId": 100142
     },
     {
       "address": "0x620477782cEA4C4171165396f8014eDef83A13da",
@@ -1364,7 +1364,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/figron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "figron"
+      "groupingId": 100143
     },
     {
       "address": "0x102138be022f8D142bcB817F7264921d65209608",
@@ -1373,7 +1373,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/flexon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "flexon"
+      "groupingId": 100144
     },
     {
       "address": "0x240Eb4859B4537D250cf784cc758c404dA5Fe4bd",
@@ -1382,7 +1382,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/flhyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "flhyon"
+      "groupingId": 100145
     },
     {
       "address": "0xF1a96d4B591E446445600789D60C73Dd636B357c",
@@ -1391,7 +1391,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/flncon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "flncon"
+      "groupingId": 100146
     },
     {
       "address": "0x48187890D16aEE64798E02C5BeD510f4dB5694A9",
@@ -1400,7 +1400,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/flqlon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "flqlon"
+      "groupingId": 100147
     },
     {
       "address": "0xA1DaaB37dA2a29A1eC721922b55962eB8B481001",
@@ -1409,7 +1409,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/fnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "fnon"
+      "groupingId": 100148
     },
     {
       "address": "0xb1ABa049C42B6Fe811766EBa61f51F11C57ACC4b",
@@ -1418,7 +1418,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/fon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "fon"
+      "groupingId": 100149
     },
     {
       "address": "0xD678F3F86436Ee298d28A3C414c367aDFeD65337",
@@ -1427,7 +1427,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/formon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "formon"
+      "groupingId": 100150
     },
     {
       "address": "0xd8dAFFd168651470cd5397A5D670DD5F8E4b02f5",
@@ -1436,7 +1436,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/fpson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "fpson"
+      "groupingId": 100151
     },
     {
       "address": "0x54B92Fd77229269Ff6484942C123cCa72f2D6fEC",
@@ -1445,7 +1445,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/fsolon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "fsolon"
+      "groupingId": 100152
     },
     {
       "address": "0xE96F94e10f1265dCC15f83D251F1F6758d2CD67d",
@@ -1454,7 +1454,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ftgcon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ftgcon"
+      "groupingId": 100153
     },
     {
       "address": "0x5acf40056ED51C8bBCD1b125Ef803581Ac89A627",
@@ -1463,7 +1463,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/futuon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "futuon"
+      "groupingId": 100154
     },
     {
       "address": "0x9b8E987e6fEc8Cf1380C4dcA7071e2C7853AEEA1",
@@ -1472,7 +1472,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/fxion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "fxion"
+      "groupingId": 100155
     },
     {
       "address": "0x5d1a9d8aa362a6424b65Fcb601e52FefcE5b4EFA",
@@ -1481,7 +1481,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/gdon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "gdon"
+      "groupingId": 100156
     },
     {
       "address": "0x817942d5dE16092656568e9f67f54cCb462f8989",
@@ -1490,7 +1490,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/gemion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "gemion"
+      "groupingId": 100157
     },
     {
       "address": "0x5151A22421Ed4277F1e4ca4785a07b035D548a36",
@@ -1499,7 +1499,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/geon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "geon"
+      "groupingId": 100158
     },
     {
       "address": "0x2Aea1D415D45CCF3EaBE565d45DcaF4ea2035b9c",
@@ -1508,7 +1508,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/gevon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "gevon"
+      "groupingId": 100159
     },
     {
       "address": "0xAff6b836d3eBd29aEb0C8b840Add04EF79d79678",
@@ -1517,7 +1517,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/gfson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "gfson"
+      "groupingId": 100160
     },
     {
       "address": "0x8Dd51E233E2344498F876c231a3Bd962E9750a6C",
@@ -1526,7 +1526,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ggovon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ggovon"
+      "groupingId": 100161
     },
     {
       "address": "0xfA9A1e901085e269F6d428F79cD5252d8b919344",
@@ -1535,7 +1535,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/gldon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "gldon"
+      "groupingId": 100162
     },
     {
       "address": "0x15580092796f69825CFf4738Cac55D05D41eaa42",
@@ -1544,7 +1544,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/gltron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "gltron"
+      "groupingId": 100163
     },
     {
       "address": "0x25a4DbAE9a0Cd8C75656D6b50FFDf4900CC20d8f",
@@ -1553,7 +1553,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/glwon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "glwon"
+      "groupingId": 100164
     },
     {
       "address": "0xF98B89825233808CD37706A53D2b4Ae3e359d442",
@@ -1562,7 +1562,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/glxyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "glxyon"
+      "groupingId": 100165
     },
     {
       "address": "0xdABb9afF4cf02f26D2014e4cA9f94aC6fe6572a3",
@@ -1571,7 +1571,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/gmeon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "gmeon"
+      "groupingId": 100166
     },
     {
       "address": "0x237c9F794EDAaA0071cDF64a41c25EB76771754b",
@@ -1580,7 +1580,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/gnrcon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "gnrcon"
+      "groupingId": 100167
     },
     {
       "address": "0x091FC7778e6932d4009B087B191D1EE3bac5729A",
@@ -1589,7 +1589,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/googlon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "googlon"
+      "groupingId": 100168
     },
     {
       "address": "0xab2F74804C022c5249d52e743aF4340e42F5F3B6",
@@ -1598,7 +1598,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/grabon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "grabon"
+      "groupingId": 100169
     },
     {
       "address": "0x20CCe48d767eD68cbba7727c4c504eFE5BCB626c",
@@ -1607,7 +1607,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/grndon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "grndon"
+      "groupingId": 100170
     },
     {
       "address": "0x0D4f9b25F81163Fb4840BA4F434672543823000C",
@@ -1616,7 +1616,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/gson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "gson"
+      "groupingId": 100171
     },
     {
       "address": "0x7A18bB5FD6Ba6343180AfDCf6Dc406eF17F7fC04",
@@ -1625,7 +1625,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/halon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "halon"
+      "groupingId": 100172
     },
     {
       "address": "0x31daBf49E4Bc1Af1456c1819cb6A2562154e92f3",
@@ -1634,7 +1634,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/hdon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "hdon"
+      "groupingId": 100173
     },
     {
       "address": "0x4Dc8dCeE22a56fEECa930dfF45581aa9A14D5E05",
@@ -1643,7 +1643,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/hiion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "hiion"
+      "groupingId": 100174
     },
     {
       "address": "0x4693f6F5EF257381a28afd0673e64d8b32d5C6aD",
@@ -1652,7 +1652,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/himson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "himson"
+      "groupingId": 100175
     },
     {
       "address": "0x6cF3b84f0Ba4d86d9f6987812A11Db2c447D9483",
@@ -1661,7 +1661,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/himxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "himxon"
+      "groupingId": 100176
     },
     {
       "address": "0x3F19A16A401a6AF05150479Ccb76EF2Fb57B0dF3",
@@ -1670,7 +1670,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/hiveon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "hiveon"
+      "groupingId": 100177
     },
     {
       "address": "0xfF6f45B2D761CDE4dAb7F5d7A1A5f691F52F3bC3",
@@ -1679,7 +1679,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/hliton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "hliton"
+      "groupingId": 100178
     },
     {
       "address": "0x19601179A60f55Ff6636F5D1A8b6671053Bd60a8",
@@ -1688,7 +1688,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/hoodon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "hoodon"
+      "groupingId": 100179
     },
     {
       "address": "0x492E678c1ea048C70eDc635047cdBB87FF5362a2",
@@ -1697,7 +1697,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/hpeon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "hpeon"
+      "groupingId": 100180
     },
     {
       "address": "0x847ef23A3F99aF79A185ce033e1664165b846eEa",
@@ -1706,7 +1706,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/hsaion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "hsaion"
+      "groupingId": 100181
     },
     {
       "address": "0x1C42C07257F936a7c4f84B8D756c95817E23631A",
@@ -1715,7 +1715,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/hubbon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "hubbon"
+      "groupingId": 100182
     },
     {
       "address": "0x3A82f1C847cc55e52e597fD81c63a812C6722541",
@@ -1724,7 +1724,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/huton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "huton"
+      "groupingId": 100183
     },
     {
       "address": "0x0DAE81A905b645a3D1E67129b89CD0Acda224E9A",
@@ -1733,7 +1733,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/hygon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "hygon"
+      "groupingId": 100184
     },
     {
       "address": "0x85b53A9344884ae428E0E15f05A1819D280D4bE7",
@@ -1742,7 +1742,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/hygwon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "hygwon"
+      "groupingId": 100185
     },
     {
       "address": "0x75E9D68e99e76714ed1a7663ab48ba3AaBd7A6c5",
@@ -1751,7 +1751,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/hyson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "hyson"
+      "groupingId": 100186
     },
     {
       "address": "0x879Fc0D8DFdb13b4aF3513d9838f82c4Df8F57E8",
@@ -1760,7 +1760,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ialton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ialton"
+      "groupingId": 100187
     },
     {
       "address": "0xcB2a0F46f67dC4c58a316F1c008EDef5c2311795",
@@ -1769,7 +1769,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/iauon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "iauon"
+      "groupingId": 100188
     },
     {
       "address": "0x68B07cEf227Cea1b2b6683921C8c825cd5C69Ec7",
@@ -1778,7 +1778,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ibiton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ibiton"
+      "groupingId": 100189
     },
     {
       "address": "0xE8ff70859Ce4cbd72E4352b4fb45F5BF39d07464",
@@ -1787,7 +1787,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ibmon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ibmon"
+      "groupingId": 100190
     },
     {
       "address": "0xFb836dc42EBDfF6aA8DB9339336899061D1C4f3F",
@@ -1796,7 +1796,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ichron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ichron"
+      "groupingId": 100191
     },
     {
       "address": "0x5Fb339393773414039295ea97A92614fed85D556",
@@ -1805,7 +1805,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/idefon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "idefon"
+      "groupingId": 100192
     },
     {
       "address": "0x918008C3d29496C37b478b611967BeaCA365aF36",
@@ -1814,7 +1814,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/iefaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "iefaon"
+      "groupingId": 100193
     },
     {
       "address": "0xA486a0A05250E8621bA3B26C3bbc517145eba619",
@@ -1823,7 +1823,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/iefon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "iefon"
+      "groupingId": 100194
     },
     {
       "address": "0x4E07B55E62f443859706E03aeA0b3fe3a1bfEA8B",
@@ -1832,7 +1832,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ieion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ieion"
+      "groupingId": 100195
     },
     {
       "address": "0x22092c94a91d019Ad15536725598B0A6BE0a73C0",
@@ -1841,7 +1841,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/iemgon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "iemgon"
+      "groupingId": 100196
     },
     {
       "address": "0x9e609E96B688927aa49Dcd9758E2081f0c48ccAB",
@@ -1850,7 +1850,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/igebon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "igebon"
+      "groupingId": 100197
     },
     {
       "address": "0xA046C2F0A1Ac0a0E8829eFc12163ae892CEAfAc2",
@@ -1859,7 +1859,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/igvon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "igvon"
+      "groupingId": 100198
     },
     {
       "address": "0x167E93A849A0cc479769132552B99aa1cFA0948c",
@@ -1868,7 +1868,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ijhon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ijhon"
+      "groupingId": 100199
     },
     {
       "address": "0x9609f804FD90440Dd3F4AfA1E0a4D57DFd580Ce8",
@@ -1877,7 +1877,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ijson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ijson"
+      "groupingId": 100200
     },
     {
       "address": "0x5e24DB6DE4C21E2C8f9E81bAcfCedFBAC2DeE4aa",
@@ -1886,7 +1886,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/inceon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "inceon"
+      "groupingId": 100201
     },
     {
       "address": "0xdB0748297fbEf0B33dF89e86519A0BD3adAf6459",
@@ -1895,7 +1895,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/indaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "indaon"
+      "groupingId": 100202
     },
     {
       "address": "0x517A25e696421C88218B43cbb7EA0f873B6973A6",
@@ -1904,7 +1904,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/inodon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "inodon"
+      "groupingId": 100203
     },
     {
       "address": "0x790cFb394B1f399a3543Ba1F835DdE114A387eeb",
@@ -1913,7 +1913,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/inroon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "inroon"
+      "groupingId": 100204
     },
     {
       "address": "0xE3316F5372559768E14Bc7FfE983891A742987E7",
@@ -1922,7 +1922,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/inswon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "inswon"
+      "groupingId": 100205
     },
     {
       "address": "0xA528CaaA2f96090e379d43F90834C75dF54D6E74",
@@ -1931,7 +1931,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/intcon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "intcon"
+      "groupingId": 100206
     },
     {
       "address": "0x6E3e077A6C0E3c27fD6D00B97387D9b7Bd451BAB",
@@ -1940,7 +1940,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/intuon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "intuon"
+      "groupingId": 100207
     },
     {
       "address": "0x40d8E1fbaf69173c47fa493FeB50a84eeC6b57eE",
@@ -1949,7 +1949,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ionqon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ionqon"
+      "groupingId": 100208
     },
     {
       "address": "0x3cE678692a60Fb5F31963b05CB158F0cE0Ff1736",
@@ -1958,7 +1958,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/irdmon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "irdmon"
+      "groupingId": 100209
     },
     {
       "address": "0x8fD70eE385F470c8d6FDa2d93A4e49c849bAC6a6",
@@ -1967,7 +1967,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/irenon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "irenon"
+      "groupingId": 100210
     },
     {
       "address": "0x784584933C2192Caa062E90D8140d94768ce62d8",
@@ -1976,7 +1976,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/isrgon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "isrgon"
+      "groupingId": 100211
     },
     {
       "address": "0x88B90f45bd6a4F97f7D85d280eD64A40880e4935",
@@ -1985,7 +1985,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/itaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "itaon"
+      "groupingId": 100212
     },
     {
       "address": "0xcf9CAf83053213c44dd7027Db3e1E4aC98E55f8f",
@@ -1994,7 +1994,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/itoton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "itoton"
+      "groupingId": 100213
     },
     {
       "address": "0x1104EB7e85E25eB45F88e638b0C27A06C1A91CB2",
@@ -2003,7 +2003,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ivvon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ivvon"
+      "groupingId": 100214
     },
     {
       "address": "0x40755F06aB7F8dE1ab3a9413b1ef562d63DE19B1",
@@ -2012,7 +2012,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/iwfon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "iwfon"
+      "groupingId": 100215
     },
     {
       "address": "0x500EAFc69b68Acd6F27064f9B75F1C7d91CC4d9F",
@@ -2021,7 +2021,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/iwmon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "iwmon"
+      "groupingId": 100216
     },
     {
       "address": "0xF54b94eA21e1Da5d51eF00fd4502225e5394F874",
@@ -2030,7 +2030,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/iwnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "iwnon"
+      "groupingId": 100217
     },
     {
       "address": "0xbEeEF4361F6603eDAceF5205b343C6bb6473A099",
@@ -2039,7 +2039,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/iywon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "iywon"
+      "groupingId": 100218
     },
     {
       "address": "0x84719a1082ED487c7EeaC7d69885e3Cc2009ea78",
@@ -2048,7 +2048,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/jaaaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "jaaaon"
+      "groupingId": 100219
     },
     {
       "address": "0x8D941EbB4921f8d43CFA65233B14A547f96559fc",
@@ -2057,7 +2057,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/jblon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "jblon"
+      "groupingId": 100220
     },
     {
       "address": "0xE92bE960aE64F6a914Ca77014CaC9E56DE7f36C1",
@@ -2066,7 +2066,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/jdon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "jdon"
+      "groupingId": 100221
     },
     {
       "address": "0xD1f799Cb9F5D0A02951b0755bEcED6c43882712f",
@@ -2075,7 +2075,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/jnjon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "jnjon"
+      "groupingId": 100222
     },
     {
       "address": "0x317bF42b43A394860718266Dec445DCC9FD9dA49",
@@ -2084,7 +2084,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/jpmon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "jpmon"
+      "groupingId": 100223
     },
     {
       "address": "0x5e3cA19c533C8C0381eac5319624596557C279ED",
@@ -2093,7 +2093,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/keelon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "keelon"
+      "groupingId": 100224
     },
     {
       "address": "0x3de956D959726C448649354C6fBCa92B82dC5Ed7",
@@ -2102,7 +2102,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/keyson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "keyson"
+      "groupingId": 100225
     },
     {
       "address": "0xfC263946439B0D802Bf4C5A6fcD34E2885259F91",
@@ -2111,7 +2111,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/klacon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "klacon"
+      "groupingId": 100226
     },
     {
       "address": "0x405F38B90beBF1259062CF29Da299f3398662bcb",
@@ -2120,7 +2120,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/koon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "koon"
+      "groupingId": 100227
     },
     {
       "address": "0xED5615c5280E897241b9e4f019562A581cD49390",
@@ -2129,7 +2129,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/kopnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "kopnon"
+      "groupingId": 100228
     },
     {
       "address": "0x7437203800140BA7d9081ddE8cEF09EE40E3Bf03",
@@ -2138,7 +2138,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/kwebon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "kwebon"
+      "groupingId": 100229
     },
     {
       "address": "0x476a2caD3197Df68186b61bC36296E8d3d2d1b85",
@@ -2147,7 +2147,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/lasron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "lasron"
+      "groupingId": 100230
     },
     {
       "address": "0x43807bf4ce06F4fbb4FA8DEac37BF274AEa324Da",
@@ -2156,7 +2156,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/lecoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "lecoon"
+      "groupingId": 100231
     },
     {
       "address": "0x653156b9a46E21906Dddc82414871bBDB0261319",
@@ -2165,7 +2165,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/lembon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "lembon"
+      "groupingId": 100232
     },
     {
       "address": "0xE1743616f705954620aa351465c8885fBDE5A8A9",
@@ -2174,7 +2174,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/linon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "linon"
+      "groupingId": 100233
     },
     {
       "address": "0x9810BeAc9Af3C30D14CfB61cdd557E160f60fd50",
@@ -2183,7 +2183,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/lion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "lion"
+      "groupingId": 100234
     },
     {
       "address": "0x0fAcaFB97ffDbA3cAe88512070AF49bd30674cD9",
@@ -2192,7 +2192,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/liteon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "liteon"
+      "groupingId": 100235
     },
     {
       "address": "0xfd7778D5d4e804b5B512471Df36d60C465199A52",
@@ -2201,7 +2201,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/liton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "liton"
+      "groupingId": 100236
     },
     {
       "address": "0x341D31b2be1Fee9C00e395A62bA41837F4322EEd",
@@ -2210,7 +2210,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/llyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "llyon"
+      "groupingId": 100237
     },
     {
       "address": "0xd09F7B75b9659b864C6F82bb00Ff096f9D277998",
@@ -2219,7 +2219,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/lmton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "lmton"
+      "groupingId": 100238
     },
     {
       "address": "0x2Ec46eeD30c94cAa5979E6A0395abe824138335f",
@@ -2228,7 +2228,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/lowon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "lowon"
+      "groupingId": 100239
     },
     {
       "address": "0x6AD19E0A57Cfea0bC521A12C6c82372852842933",
@@ -2237,7 +2237,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/lpthon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "lpthon"
+      "groupingId": 100240
     },
     {
       "address": "0x35895A1fa1aFf7Fb3204fb01257409FD75AcB24c",
@@ -2246,7 +2246,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/lrcxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "lrcxon"
+      "groupingId": 100241
     },
     {
       "address": "0x80F03ABCb2BD85237740dD69f87d2F5De3909012",
@@ -2255,7 +2255,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/lsccon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "lsccon"
+      "groupingId": 100242
     },
     {
       "address": "0xA3b7B7cfEb023a6C4f444f5ca9a3Fc85809Ece15",
@@ -2264,7 +2264,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/lunron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "lunron"
+      "groupingId": 100243
     },
     {
       "address": "0x8aC67002282EeA816aFA0160d22a8d27f05BA07B",
@@ -2273,7 +2273,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/lwlgon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "lwlgon"
+      "groupingId": 100244
     },
     {
       "address": "0x25FfDA07F585c39848dB6573E533D7585679C52d",
@@ -2282,7 +2282,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/maon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "maon"
+      "groupingId": 100245
     },
     {
       "address": "0xd226d8170EE38793430C7Dec6903df4B818BB74C",
@@ -2291,7 +2291,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/maraon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "maraon"
+      "groupingId": 100246
     },
     {
       "address": "0xCC977B493f52B4b6B6a0c3594530f2BaEe565E96",
@@ -2300,7 +2300,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/mblyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "mblyon"
+      "groupingId": 100247
     },
     {
       "address": "0x995ADd4bA29a628A57930a8a185c62cA044eC090",
@@ -2309,7 +2309,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/mcdon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "mcdon"
+      "groupingId": 100248
     },
     {
       "address": "0x89C37104aFcee9a72187E05D960a1e09763a126e",
@@ -2318,7 +2318,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/meion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "meion"
+      "groupingId": 100249
     },
     {
       "address": "0x60a8f8e05200fF73aFde9E2caE819bF1605f0BdD",
@@ -2327,7 +2327,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/melion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "melion"
+      "groupingId": 100250
     },
     {
       "address": "0xD7dF5863A3e742F0c767768cDfcb63f09E0422f6",
@@ -2336,7 +2336,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/metaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "metaon"
+      "groupingId": 100251
     },
     {
       "address": "0xd41699aA1BfC1c5f172c27f387372bd30717a5db",
@@ -2345,7 +2345,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/mksion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "mksion"
+      "groupingId": 100252
     },
     {
       "address": "0x4bAf4Dc56CF6a525A0874E25CC6372a6a8915135",
@@ -2354,7 +2354,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/mpon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "mpon"
+      "groupingId": 100253
     },
     {
       "address": "0x869027261075c3C239d6a26842579B93802606f4",
@@ -2363,7 +2363,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/mrkon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "mrkon"
+      "groupingId": 100254
     },
     {
       "address": "0x01486675Da0764eE780EA7cB65C33062E9b2d28c",
@@ -2372,7 +2372,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/mrnaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "mrnaon"
+      "groupingId": 100255
     },
     {
       "address": "0x1501EC83FFEf405B4331CC4f73277a40fb0C627d",
@@ -2381,7 +2381,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/mrvlon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "mrvlon"
+      "groupingId": 100256
     },
     {
       "address": "0x6Bfe75D1ad432050eA973C3A3DcD88F02e2444C3",
@@ -2390,7 +2390,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/msfton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "msfton"
+      "groupingId": 100257
     },
     {
       "address": "0x7313EA16493b2f55054Df0131A3A14B043ec8992",
@@ -2399,7 +2399,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/mstron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "mstron"
+      "groupingId": 100258
     },
     {
       "address": "0x1dCd320C5d7b84CD407437c58d56CbbDd0D9d8f3",
@@ -2408,7 +2408,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/mtsion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "mtsion"
+      "groupingId": 100259
     },
     {
       "address": "0xF49046aae76EaEB7ffD3Ef116Ce0f7Cd0F52D93e",
@@ -2417,7 +2417,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/mtzon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "mtzon"
+      "groupingId": 100260
     },
     {
       "address": "0x8b6ACf6041A81567f012Ff6A4C6D96d5818d74bF",
@@ -2426,7 +2426,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/muon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "muon"
+      "groupingId": 100261
     },
     {
       "address": "0x5Cb7671740877723c9aD55348a751D7B57052E07",
@@ -2435,7 +2435,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/mxlon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "mxlon"
+      "groupingId": 100262
     },
     {
       "address": "0x93b83111c54aa3993B2De5FCcD4c70B26c522D5d",
@@ -2444,7 +2444,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/myrgon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "myrgon"
+      "groupingId": 100263
     },
     {
       "address": "0x33F3df3cEA2A8c4828e88f30Be932850cf749739",
@@ -2453,7 +2453,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/naton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "naton"
+      "groupingId": 100264
     },
     {
       "address": "0xee268780473E7a0e47baC41547C6E01512555A16",
@@ -2462,7 +2462,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nbison_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nbison"
+      "groupingId": 100265
     },
     {
       "address": "0xe9d43f7e6B2237e8873A7003B3F43c6B03160bE5",
@@ -2471,7 +2471,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/neeon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "neeon"
+      "groupingId": 100266
     },
     {
       "address": "0x5E63232993789601CE362e0240a299C1DfCBfbEc",
@@ -2480,7 +2480,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nemon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nemon"
+      "groupingId": 100267
     },
     {
       "address": "0xfEb0793EEa97585Eb3a541F3FD53450D225b2B87",
@@ -2489,7 +2489,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/neton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "neton"
+      "groupingId": 100268
     },
     {
       "address": "0x7048F5227b032326cC8DBC53cF3FdDD947a2c757",
@@ -2498,7 +2498,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nflxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nflxon"
+      "groupingId": 100269
     },
     {
       "address": "0xe23f03D2907CdC38a10F6CCdc1A157bF1aFE51De",
@@ -2507,7 +2507,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/niklon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "niklon"
+      "groupingId": 100270
     },
     {
       "address": "0xC6f9EDbEE6042A237D72493bBdA3eE2c3c62F708",
@@ -2516,7 +2516,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nioon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nioon"
+      "groupingId": 100271
     },
     {
       "address": "0x04b5E199F2eC84f78B111035F57b16BeE448dB6F",
@@ -2525,7 +2525,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nkeon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nkeon"
+      "groupingId": 100272
     },
     {
       "address": "0x3c276Dd9f9Eab5510f9eAfD3a6Ea54879b27CA3D",
@@ -2534,7 +2534,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nneon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nneon"
+      "groupingId": 100273
     },
     {
       "address": "0x4D3442D884202584F1729bCA20Db05472B886B52",
@@ -2543,7 +2543,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nocon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nocon"
+      "groupingId": 100274
     },
     {
       "address": "0xE9518CB0010C717DB69001F1418EFF9e97330137",
@@ -2552,7 +2552,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nokon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nokon"
+      "groupingId": 100275
     },
     {
       "address": "0xeb19c13c54B1cD48AFc62F6503375e92D5f1e856",
@@ -2561,7 +2561,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nowon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nowon"
+      "groupingId": 100276
     },
     {
       "address": "0x282973969118F9fE39bF2Ff3D8dd1EFEe82ccB11",
@@ -2570,7 +2570,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nteson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nteson"
+      "groupingId": 100277
     },
     {
       "address": "0x2155f5344BA7763f80420dE617Af41E56De0552b",
@@ -2579,7 +2579,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nueon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nueon"
+      "groupingId": 100278
     },
     {
       "address": "0xA9eE28C80f960B889dFbd1902055218cBa016F75",
@@ -2588,7 +2588,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nvdaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nvdaon"
+      "groupingId": 100279
     },
     {
       "address": "0x8a5f83A4b3AD2B9604F53c4dDf8DcE1329f9d433",
@@ -2597,7 +2597,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nvmion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nvmion"
+      "groupingId": 100280
     },
     {
       "address": "0x08a513779f46FFb7A34F16094a94016d010128a8",
@@ -2606,7 +2606,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nvoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nvoon"
+      "groupingId": 100281
     },
     {
       "address": "0x484Ce83BB55b50D70236C7D1E29E0Ba7524f905B",
@@ -2615,7 +2615,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nvton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nvton"
+      "groupingId": 100282
     },
     {
       "address": "0xB56B7C2F9988448790B0F78697F405aB5e8597E6",
@@ -2624,7 +2624,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/nvtson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "nvtson"
+      "groupingId": 100283
     },
     {
       "address": "0x31D6011023D6c7695Efc29bB016830F3F36De40a",
@@ -2633,7 +2633,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/oihon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "oihon"
+      "groupingId": 100284
     },
     {
       "address": "0x4321366277d4a6E170F1f28148C93E8c47636c14",
@@ -2642,7 +2642,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/oiion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "oiion"
+      "groupingId": 100285
     },
     {
       "address": "0xAF6C03AcF72355ce98d0741302b78870b376428c",
@@ -2651,7 +2651,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/okloon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "okloon"
+      "groupingId": 100286
     },
     {
       "address": "0xd85D4cE29b4cA361Ff72ef0E53d6236E334c5Db6",
@@ -2660,7 +2660,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ondson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ondson"
+      "groupingId": 100287
     },
     {
       "address": "0xb35a9EaB5d25282F4e668798b629A9294e9A47aA",
@@ -2669,7 +2669,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/onon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "onon"
+      "groupingId": 100288
     },
     {
       "address": "0x2F79d36184DfE7968C9d23f87cAe1aB72447c1e5",
@@ -2678,7 +2678,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ontoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ontoon"
+      "groupingId": 100289
     },
     {
       "address": "0xA09699fC0cBB1F85128450A0FF6a3C4D3a7e7b9b",
@@ -2687,7 +2687,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/openon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "openon"
+      "groupingId": 100290
     },
     {
       "address": "0x88672043905bDD272dF55A5a7bB1b7E1e693CbC5",
@@ -2696,7 +2696,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/opraon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "opraon"
+      "groupingId": 100291
     },
     {
       "address": "0x2bC97B1c5F83F080798ee9E38Da5FBF621454FCf",
@@ -2705,7 +2705,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/orbxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "orbxon"
+      "groupingId": 100292
     },
     {
       "address": "0x03E4bd1Ea53f1da84513da0319D1f03dD1BBCf93",
@@ -2714,7 +2714,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/orclon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "orclon"
+      "groupingId": 100293
     },
     {
       "address": "0xb0752AA50B089EE6EA9Acd51373207Fa460e87bb",
@@ -2723,7 +2723,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/oscron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "oscron"
+      "groupingId": 100294
     },
     {
       "address": "0x30033A17ea24E90631532582a1917c64AFBF87Af",
@@ -2732,7 +2732,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ouston_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ouston"
+      "groupingId": 100295
     },
     {
       "address": "0x01b5a4Ac600be98448dBeFBB78bCDF38262552cC",
@@ -2741,7 +2741,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/oxyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "oxyon"
+      "groupingId": 100296
     },
     {
       "address": "0x3FCd741646a9790635b938Cdb69Af5df356cBaAB",
@@ -2750,7 +2750,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pallon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pallon"
+      "groupingId": 100297
     },
     {
       "address": "0x0eAa1a75bd682A5669AB2371A559fBD039C6b9Eb",
@@ -2759,7 +2759,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/panwon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "panwon"
+      "groupingId": 100298
     },
     {
       "address": "0x6f28Cb07790c1049ecd7482d09Fd13B977B47201",
@@ -2768,7 +2768,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/paveon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "paveon"
+      "groupingId": 100299
     },
     {
       "address": "0x2b1d5cDeCC356530a746C5754231EfaEAca64022",
@@ -2777,7 +2777,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pbron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pbron"
+      "groupingId": 100300
     },
     {
       "address": "0x47b36DDB9dd12a8411F78226F55e8C3f0d65481F",
@@ -2786,7 +2786,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pcgon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pcgon"
+      "groupingId": 100301
     },
     {
       "address": "0xcf3E84e62002CA459dB81b2032d7fe13715BAd51",
@@ -2795,7 +2795,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pdbcon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pdbcon"
+      "groupingId": 100302
     },
     {
       "address": "0xf3E82Ea164Cb344B2B11BAD4c24b0ea4f7BA4714",
@@ -2804,7 +2804,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pddon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pddon"
+      "groupingId": 100303
     },
     {
       "address": "0x2144d620E3471441b12Bf256E01a09EAA5ea7F12",
@@ -2813,7 +2813,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pengon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pengon"
+      "groupingId": 100304
     },
     {
       "address": "0xf99F8f3a95257d82006183bd524efa7aaCc9Ef7A",
@@ -2822,7 +2822,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pepon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pepon"
+      "groupingId": 100305
     },
     {
       "address": "0x8A83C31D6751833B4940b6e871c48d9A15a07b46",
@@ -2831,7 +2831,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pfeon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pfeon"
+      "groupingId": 100306
     },
     {
       "address": "0x400F1e257f86D25578A0928C94dC95115F09d5c9",
@@ -2840,7 +2840,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pgon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pgon"
+      "groupingId": 100307
     },
     {
       "address": "0xCfD1F0DF84300ea1a4E2Ba5238043A2FA5A7237C",
@@ -2849,7 +2849,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pinson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pinson"
+      "groupingId": 100308
     },
     {
       "address": "0xf9015E0b3AB4ddd216F522D6150dB826c9BE83f8",
@@ -2858,7 +2858,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/plon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "plon"
+      "groupingId": 100309
     },
     {
       "address": "0x9351AbD19f42101dD36025E495B98E910b255d78",
@@ -2867,7 +2867,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pltron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pltron"
+      "groupingId": 100310
     },
     {
       "address": "0x4752AE8f910b25E64e4406EAAD50C1b4e8De7E6D",
@@ -2876,7 +2876,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/plugon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "plugon"
+      "groupingId": 100311
     },
     {
       "address": "0x5417b7CFDb8a187004067297EbF1491c8D6D5C09",
@@ -2885,7 +2885,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/powion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "powion"
+      "groupingId": 100312
     },
     {
       "address": "0xD381aec27DAAcCC87F102FF4Ad6652F8b5F20bA0",
@@ -2894,7 +2894,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/powlon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "powlon"
+      "groupingId": 100313
     },
     {
       "address": "0x3EC23F52F6573FC0587A0631dd8C3b107f6bcb35",
@@ -2903,7 +2903,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pplton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pplton"
+      "groupingId": 100314
     },
     {
       "address": "0xD60b0276640a693ece55660afAC0383ca6433882",
@@ -2912,7 +2912,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/primon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "primon"
+      "groupingId": 100315
     },
     {
       "address": "0x3802dc739ef9E226F36421a9C15efa519153BbbE",
@@ -2921,7 +2921,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/psqon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "psqon"
+      "groupingId": 100316
     },
     {
       "address": "0x89CC700F308a4C59889fBF3286216554C53B0601",
@@ -2930,7 +2930,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/purron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "purron"
+      "groupingId": 100317
     },
     {
       "address": "0x2418c2e1aE3B8D767594b3974D32610743f88155",
@@ -2939,7 +2939,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pwron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pwron"
+      "groupingId": 100318
     },
     {
       "address": "0x374D03A6c0d5bd4bE0A5117eBE1B49D52aC8a53F",
@@ -2948,7 +2948,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/pyplon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "pyplon"
+      "groupingId": 100319
     },
     {
       "address": "0x8C7Bf0ED6bc778bde1489De1592C1aAd3E66371d",
@@ -2957,7 +2957,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/qbtson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "qbtson"
+      "groupingId": 100320
     },
     {
       "address": "0xfBD4D681C92ead6Af0E49950c8B2e47EeAcbB2dB",
@@ -2966,7 +2966,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/qcomon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "qcomon"
+      "groupingId": 100321
     },
     {
       "address": "0xBC34D36B70E5A256F3D16F9cA9D3ca3838f6cC4F",
@@ -2975,7 +2975,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/qltaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "qltaon"
+      "groupingId": 100322
     },
     {
       "address": "0x0cdE6936d305d5B34667fC46425E852efd73559a",
@@ -2984,7 +2984,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/qqqon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "qqqon"
+      "groupingId": 100323
     },
     {
       "address": "0x467C7cF9AF95765C1Bd6542FfD516BF9603A19b9",
@@ -2993,7 +2993,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/qtumon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "qtumon"
+      "groupingId": 100324
     },
     {
       "address": "0x82E07C1017032cFd889b1Ca81EBe722c4D4de825",
@@ -3002,7 +3002,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/qubton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "qubton"
+      "groupingId": 100325
     },
     {
       "address": "0x64E023411215C3b75b9F339B7B77F179cd04C527",
@@ -3011,7 +3011,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/qyldon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "qyldon"
+      "groupingId": 100326
     },
     {
       "address": "0x4DA12f47578ef89c76179b760C778E70b668f80b",
@@ -3020,7 +3020,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/rddton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "rddton"
+      "groupingId": 100327
     },
     {
       "address": "0x23e39D94807a8bb7e3f8294b4911D04EE26DcE39",
@@ -3029,7 +3029,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/rdwon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "rdwon"
+      "groupingId": 100328
     },
     {
       "address": "0x30BD85fD4286c5c9857679F5B188f737B4a7B8C0",
@@ -3038,7 +3038,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/regnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "regnon"
+      "groupingId": 100329
     },
     {
       "address": "0xc16f47c4a7Ed39372b9a0E3e2016CEdE9b4cB83A",
@@ -3047,7 +3047,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/remxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "remxon"
+      "groupingId": 100330
     },
     {
       "address": "0xEd2A500eb2b66679E0Bbd76E51A60049ae5f3271",
@@ -3056,7 +3056,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/rgtion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "rgtion"
+      "groupingId": 100331
     },
     {
       "address": "0xC4a88a72B848255Fd24Da3C1aD6755D980535FB1",
@@ -3065,7 +3065,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/rioton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "rioton"
+      "groupingId": 100332
     },
     {
       "address": "0x277E1FA8704c5511Fed7e30BC691f922AA30101b",
@@ -3074,7 +3074,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/rivnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "rivnon"
+      "groupingId": 100333
     },
     {
       "address": "0xb4D695569236273745B4CD54B539b1b9Cc1513af",
@@ -3083,7 +3083,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/rklbon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "rklbon"
+      "groupingId": 100334
     },
     {
       "address": "0x49ccB157c77AFE5F264C35f0e9178a98D77815Ab",
@@ -3092,7 +3092,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/rmbson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "rmbson"
+      "groupingId": 100335
     },
     {
       "address": "0x95F7423c51Eab71cBD00ca855B0B2B2153F14184",
@@ -3101,7 +3101,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/rokon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "rokon"
+      "groupingId": 100336
     },
     {
       "address": "0x44FdE2C6Bc2C2b54962c69fcef57a2A50121dbD7",
@@ -3110,7 +3110,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/rtxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "rtxon"
+      "groupingId": 100337
     },
     {
       "address": "0x111f6F2B9F1C5f3Ec841690e1deEc606086727dA",
@@ -3119,7 +3119,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sapon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sapon"
+      "groupingId": 100338
     },
     {
       "address": "0x732823512Ba98D1BCDE471ca023ee2A0C9f117b7",
@@ -3128,7 +3128,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sataon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sataon"
+      "groupingId": 100339
     },
     {
       "address": "0x99e01F02d66455Bb106D91D469c9EAF6aB4904f6",
@@ -3137,7 +3137,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sbeton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sbeton"
+      "groupingId": 100340
     },
     {
       "address": "0x94d7754541B829A87321d56121Bc544167Ac490D",
@@ -3146,7 +3146,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sbuxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sbuxon"
+      "groupingId": 100341
     },
     {
       "address": "0xF15B8f7465b92799F6EE440F86B3CAB5A4dbc65A",
@@ -3155,7 +3155,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sccoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sccoon"
+      "groupingId": 100342
     },
     {
       "address": "0xE5ba472C98B7e4695bd856290DE66BdeDAffC123",
@@ -3164,7 +3164,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/schwon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "schwon"
+      "groupingId": 100343
     },
     {
       "address": "0xB0D7D4b65A654d43F91272Bb94E011Ce6812A2eF",
@@ -3173,7 +3173,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/secuon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "secuon"
+      "groupingId": 100344
     },
     {
       "address": "0x8755c5C39b1AA9053a83AC731242a2cf4D04B0Fe",
@@ -3182,7 +3182,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sedgon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sedgon"
+      "groupingId": 100345
     },
     {
       "address": "0xC008C5F579EC1450F20099c39F587547e27C7523",
@@ -3191,7 +3191,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sgovon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sgovon"
+      "groupingId": 100346
     },
     {
       "address": "0xe5ca1585c6053EE891027fD0A2548cB3B27D7f01",
@@ -3200,7 +3200,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/shldon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "shldon"
+      "groupingId": 100347
     },
     {
       "address": "0x43d0B380c33cD004a6A69aBD61843881a2de4113",
@@ -3209,7 +3209,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/shopon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "shopon"
+      "groupingId": 100348
     },
     {
       "address": "0xf95e50BE5Efc96117c28775F80C7Cdb41Ebc4888",
@@ -3218,7 +3218,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/shyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "shyon"
+      "groupingId": 100349
     },
     {
       "address": "0x6A4c1B7aA18638fac4C8e0d1961405E27C25baf1",
@@ -3227,7 +3227,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/silon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "silon"
+      "groupingId": 100350
     },
     {
       "address": "0x4268F2Bfb23A7496504AA5eD1Ee325248586299F",
@@ -3236,7 +3236,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/skhyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "skhyon"
+      "groupingId": 100351
     },
     {
       "address": "0xfaDdE620010736a5074a4269894Cb52B0a9a91DE",
@@ -3245,7 +3245,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/slbon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "slbon"
+      "groupingId": 100352
     },
     {
       "address": "0x8b872732b07be325a8803CDB480D9d20B6f8d11B",
@@ -3254,7 +3254,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/slvon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "slvon"
+      "groupingId": 100353
     },
     {
       "address": "0xC142ba8ccD36d80C3a001342fb83E4C3d218A873",
@@ -3263,7 +3263,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/smcion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "smcion"
+      "groupingId": 100354
     },
     {
       "address": "0xf4b674D4E33c36F8db4b928A5eEC4E1F87b386e3",
@@ -3272,7 +3272,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/smron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "smron"
+      "groupingId": 100355
     },
     {
       "address": "0xf325884d9bCAc457271FE7F7b6Be1765348fccA2",
@@ -3281,7 +3281,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/snapon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "snapon"
+      "groupingId": 100356
     },
     {
       "address": "0x4Fd67CB8CFEdc718BAc984b5936abE3330d0a2A4",
@@ -3290,7 +3290,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sndkon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sndkon"
+      "groupingId": 100357
     },
     {
       "address": "0x138ED6833ff4E8811E1FEa0D005E13726c8886F9",
@@ -3299,7 +3299,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/snowon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "snowon"
+      "groupingId": 100358
     },
     {
       "address": "0x71507068E98049CbA81e9bBc8D901E4a2F4222eB",
@@ -3308,7 +3308,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sofion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sofion"
+      "groupingId": 100359
     },
     {
       "address": "0xD7a6353A23Ed2c4fcAc29a63cBBE3f65ffef41F5",
@@ -3317,7 +3317,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/soon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "soon"
+      "groupingId": 100360
     },
     {
       "address": "0xEDCf71B2E2217064038ADCb54A3C3a5FC3488ef1",
@@ -3326,7 +3326,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sounon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sounon"
+      "groupingId": 100361
     },
     {
       "address": "0xb943c8a0d77b656Daf5244Da060D647Fd9152289",
@@ -3335,7 +3335,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/soxlon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "soxlon"
+      "groupingId": 100362
     },
     {
       "address": "0x15688f10470dFdDCb4E2d60CD2ACfd3eC418317a",
@@ -3344,7 +3344,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/soxqon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "soxqon"
+      "groupingId": 100363
     },
     {
       "address": "0x335DD4112704f108b5Ddd8F8a44Bd9ed68522a80",
@@ -3353,7 +3353,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/soxson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "soxson"
+      "groupingId": 100364
     },
     {
       "address": "0x2A3cbF64C8181DB4a25D41D4d7a7Db9984C59DAC",
@@ -3362,7 +3362,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/soxxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "soxxon"
+      "groupingId": 100365
     },
     {
       "address": "0xd0a58BC9D88D3FF48C0294Cb7e45937d0E41A928",
@@ -3371,7 +3371,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/spcxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "spcxon"
+      "groupingId": 100366
     },
     {
       "address": "0x55B370B704240a914f42B5bBB3195431C031f9f8",
@@ -3380,7 +3380,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/spgion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "spgion"
+      "groupingId": 100367
     },
     {
       "address": "0x50356167a4DbC38BeA6779C045e24E25fAcEdfdc",
@@ -3389,7 +3389,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/spoton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "spoton"
+      "groupingId": 100368
     },
     {
       "address": "0x6a708EAD771238919D85930b5a0f10454E1C331a",
@@ -3398,7 +3398,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/spyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "spyon"
+      "groupingId": 100369
     },
     {
       "address": "0x17515B68378D86C38f394C666e79907dA05dCBa9",
@@ -3407,7 +3407,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sqqqon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sqqqon"
+      "groupingId": 100370
     },
     {
       "address": "0x90EAa91Af0B4559F1F270258Bb5cDDFafbb62da9",
@@ -3416,7 +3416,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/stldon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "stldon"
+      "groupingId": 100371
     },
     {
       "address": "0x8B46599e0E80a34F37e97DF58E741ca904cdfaBd",
@@ -3425,7 +3425,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/stmon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "stmon"
+      "groupingId": 100372
     },
     {
       "address": "0x4b1c9087a6fe265A36FBf2C591B0986fE1115F50",
@@ -3434,7 +3434,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/stngon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "stngon"
+      "groupingId": 100373
     },
     {
       "address": "0x71E9dc9DEbc18650BD2342B93623B88C2aD00c89",
@@ -3443,7 +3443,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/strcon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "strcon"
+      "groupingId": 100374
     },
     {
       "address": "0x966EbCBA3c51E81f5CF159a1EaBeFd2327aB5E8D",
@@ -3452,7 +3452,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/stxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "stxon"
+      "groupingId": 100375
     },
     {
       "address": "0x7Bd821eAad82cb92C1eA64DaC1f3bB2E787E959A",
@@ -3461,7 +3461,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/swkson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "swkson"
+      "groupingId": 100376
     },
     {
       "address": "0xc79Fc7aF952c8B41c6b7b7657dd24F44f7C10F2A",
@@ -3470,7 +3470,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/symon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "symon"
+      "groupingId": 100377
     },
     {
       "address": "0xeBe1408A7cce4f38dE15467e5139C3D82E4641F8",
@@ -3479,7 +3479,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/sysbon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "sysbon"
+      "groupingId": 100378
     },
     {
       "address": "0xDB69bEcc323fEc440cA8eb0C3564802E77cE2827",
@@ -3488,7 +3488,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/taskon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "taskon"
+      "groupingId": 100379
     },
     {
       "address": "0x6459303F58244fF1e7a42b90aa3782Dfb6ca6969",
@@ -3497,7 +3497,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tcomon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tcomon"
+      "groupingId": 100380
     },
     {
       "address": "0x5C50fFD365c852f5e72BFBc2c1aE621e2ACa5Ece",
@@ -3506,7 +3506,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/telon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "telon"
+      "groupingId": 100381
     },
     {
       "address": "0x686F8264625fe4E51F520Db856003A4dD52A49fF",
@@ -3515,7 +3515,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tenon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tenon"
+      "groupingId": 100382
     },
     {
       "address": "0x6F040fC3061374304BddbfdAe9d688d7C868c785",
@@ -3524,7 +3524,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/teron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "teron"
+      "groupingId": 100383
     },
     {
       "address": "0x2Ac26EC236df5D1d2Ad1A6Dd4E448A90E45DC35D",
@@ -3533,7 +3533,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tipon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tipon"
+      "groupingId": 100384
     },
     {
       "address": "0xBbe4dFe7a349fb72AEc6f52D5CD9BDd78ae8F313",
@@ -3542,7 +3542,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tlnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tlnon"
+      "groupingId": 100385
     },
     {
       "address": "0xf69e40069aC227C11459E3f4e8a446b3401616b6",
@@ -3551,7 +3551,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tlton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tlton"
+      "groupingId": 100386
     },
     {
       "address": "0xECC1299F183b6a720A6F4729Bf24F82Cd8D50828",
@@ -3560,7 +3560,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tmon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tmon"
+      "groupingId": 100387
     },
     {
       "address": "0xBCF7D958791152128710565A5FC6f68342ed71c8",
@@ -3569,7 +3569,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tmoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tmoon"
+      "groupingId": 100388
     },
     {
       "address": "0x2588F20bAd92dA8dcCe7fac8311B5F8ab4690E43",
@@ -3578,7 +3578,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tmuson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tmuson"
+      "groupingId": 100389
     },
     {
       "address": "0x2BBF5ab85f9ceb595dD785Db15CC9f2931c6EA64",
@@ -3587,7 +3587,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tnkon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tnkon"
+      "groupingId": 100390
     },
     {
       "address": "0x4255279af47cF10EfB9A5c8839F90170F4ef759F",
@@ -3596,7 +3596,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ton"
+      "groupingId": 100391
     },
     {
       "address": "0xE42CFb20e00912409b77a602b5BDCFf3C7ACc5f4",
@@ -3605,7 +3605,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tqqqon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tqqqon"
+      "groupingId": 100392
     },
     {
       "address": "0x343324170C91c4D8Cf4D439B3E5a619F50621aE7",
@@ -3614,7 +3614,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tsemon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tsemon"
+      "groupingId": 100393
     },
     {
       "address": "0x2494b603319d4D9F9715c9f4496d9E0364B59d93",
@@ -3623,7 +3623,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tslaon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tslaon"
+      "groupingId": 100394
     },
     {
       "address": "0xC37042A7a4fa510D8884a433762aB87257B91965",
@@ -3632,7 +3632,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tsmon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tsmon"
+      "groupingId": 100395
     },
     {
       "address": "0xF400b05AD5A791c65Acc3f905E5aDe5F1B653c8c",
@@ -3641,7 +3641,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ttmion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ttmion"
+      "groupingId": 100396
     },
     {
       "address": "0x0Afa28A7Ac4E44b1F771515c200F4d67B1f5e8d0",
@@ -3650,7 +3650,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/tton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "tton"
+      "groupingId": 100397
     },
     {
       "address": "0xCA3A5C955f1F01f20AAcF9501b03E4aA235e478b",
@@ -3659,7 +3659,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/txnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "txnon"
+      "groupingId": 100398
     },
     {
       "address": "0xf8919fe7D586b11D0A900E987c4A41bC6c3195F5",
@@ -3668,7 +3668,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/uamyon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "uamyon"
+      "groupingId": 100399
     },
     {
       "address": "0xDE9D6036FCA870f7efc5A82722Ae694c371Ac909",
@@ -3677,7 +3677,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/uberon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "uberon"
+      "groupingId": 100400
     },
     {
       "address": "0xB78ccbcd9DCE42D4fa5fdC835CB6a1aa1095a3b5",
@@ -3686,7 +3686,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/uctton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "uctton"
+      "groupingId": 100401
     },
     {
       "address": "0xE7ddF606841ee278A30E5C90486681e68ddd8cbF",
@@ -3695,7 +3695,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/uecon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "uecon"
+      "groupingId": 100402
     },
     {
       "address": "0x318ddd4d03d84A40cf44772385A0CFB3D4394049",
@@ -3704,7 +3704,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/umcon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "umcon"
+      "groupingId": 100403
     },
     {
       "address": "0xA5351C9bf08055E03642b6b8649A0f7e895501BF",
@@ -3713,7 +3713,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/ungon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "ungon"
+      "groupingId": 100404
     },
     {
       "address": "0x3385Cb29cCA0aC66f5d2354d13ef977b49A2510f",
@@ -3722,7 +3722,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/unhon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "unhon"
+      "groupingId": 100405
     },
     {
       "address": "0xfe9aA194E3C4604f3872f220eb41C33A287FCD90",
@@ -3731,7 +3731,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/unpon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "unpon"
+      "groupingId": 100406
     },
     {
       "address": "0xc7806943663158D68740a14ab0B270bD60BDe87D",
@@ -3740,7 +3740,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/uraon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "uraon"
+      "groupingId": 100407
     },
     {
       "address": "0xCa626a74420aAaf285987Da23d829f9159Ab867c",
@@ -3749,7 +3749,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/urnmon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "urnmon"
+      "groupingId": 100408
     },
     {
       "address": "0x2206E07410A8fE9Ef595e7184B2E9d160fdb7211",
@@ -3758,7 +3758,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/usaron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "usaron"
+      "groupingId": 100409
     },
     {
       "address": "0xf4FD75764A5c086FB12f822BE2cA318B3A362DC3",
@@ -3767,7 +3767,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/usfron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "usfron"
+      "groupingId": 100410
     },
     {
       "address": "0x94174E3d1335DB402Dd03A092f7Aa7AC2cB32BE4",
@@ -3776,7 +3776,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/usoon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "usoon"
+      "groupingId": 100411
     },
     {
       "address": "0xD2C06fef2ca2375a9C7ceB4AbcA9DBc2aB6aF981",
@@ -3785,7 +3785,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/uuuuon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "uuuuon"
+      "groupingId": 100412
     },
     {
       "address": "0xC8206bB42EC019f7E7Ea060ED887E9F5bB53cBB0",
@@ -3794,7 +3794,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vcxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vcxon"
+      "groupingId": 100413
     },
     {
       "address": "0x9e23662f540C6bc117AdF91230730D9B2FDF5643",
@@ -3803,7 +3803,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vdeon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vdeon"
+      "groupingId": 100414
     },
     {
       "address": "0x1D2EaAF0aE00382893aa4318Bd88d1Cd0e9B858A",
@@ -3812,7 +3812,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vfson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vfson"
+      "groupingId": 100415
     },
     {
       "address": "0xa59469D91563CaeedDd2ffC731f41215E7b691ef",
@@ -3821,7 +3821,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vicron_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vicron"
+      "groupingId": 100416
     },
     {
       "address": "0x10b58A3d9DCeC59bB1c3bf6b9c9414eAfCE711C9",
@@ -3830,7 +3830,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vnqon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vnqon"
+      "groupingId": 100417
     },
     {
       "address": "0x1CdE419faE0Ef7f7931aE3E29e5f411C8C5E5Fa1",
@@ -3839,7 +3839,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/von_160x160.png",
       "isOndoStock": true,
-      "groupingId": "von"
+      "groupingId": 100418
     },
     {
       "address": "0xAd8920aFa9d158F5eBAb77c9FfcAD650D72e473D",
@@ -3848,7 +3848,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vpgon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vpgon"
+      "groupingId": 100419
     },
     {
       "address": "0x37fF203Ac221313B620d047eddD7bD6F68d656a6",
@@ -3857,7 +3857,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vrsnon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vrsnon"
+      "groupingId": 100420
     },
     {
       "address": "0x9cEa8a7be1ab0320b709d368aD60D8500F55995f",
@@ -3866,7 +3866,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vrton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vrton"
+      "groupingId": 100421
     },
     {
       "address": "0x8c9979Dc208f74a5602c38691aa920F121e2f863",
@@ -3875,7 +3875,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vrtxon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vrtxon"
+      "groupingId": 100422
     },
     {
       "address": "0x821aEf7d0F4347bB9EA6f293a98b19d823EEF0C5",
@@ -3884,7 +3884,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vshon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vshon"
+      "groupingId": 100423
     },
     {
       "address": "0xF2C24C47805F4F72d3919c8674BfDd401505794b",
@@ -3893,7 +3893,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vston_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vston"
+      "groupingId": 100424
     },
     {
       "address": "0x158734153f354cB326EE690c3D55F810Dcb0fC90",
@@ -3902,7 +3902,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vtion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vtion"
+      "groupingId": 100425
     },
     {
       "address": "0xc2dd31b1b3a2F515CE0D48De712C6744C3475170",
@@ -3911,7 +3911,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vtvon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vtvon"
+      "groupingId": 100426
     },
     {
       "address": "0xA3b089c886E6D721F49DeF8E050F3b9d4362560B",
@@ -3920,7 +3920,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/vzon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "vzon"
+      "groupingId": 100427
     },
     {
       "address": "0x82436bAE31AE373258bA567f32087eeFc32189F2",
@@ -3929,7 +3929,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/wccon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "wccon"
+      "groupingId": 100428
     },
     {
       "address": "0xcEb29848d04Ad3Cb46E1fE8E45B82ffAc39D797d",
@@ -3938,7 +3938,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/wdcon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "wdcon"
+      "groupingId": 100429
     },
     {
       "address": "0x629520dEE1620dEf11596F84E85de9F1Ff653012",
@@ -3947,7 +3947,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/wfcon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "wfcon"
+      "groupingId": 100430
     },
     {
       "address": "0xb3D1a5F9bF92F18da643F2Ada2f2CdfDAE67E9d1",
@@ -3956,7 +3956,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/wlkon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "wlkon"
+      "groupingId": 100431
     },
     {
       "address": "0x7B7AbD762a400c9768CDeeEF3C01DaE39e0B8427",
@@ -3965,7 +3965,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/wmbon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "wmbon"
+      "groupingId": 100432
     },
     {
       "address": "0xCE0466Bae0e867239719dC386CA84b1F3eFE6914",
@@ -3974,7 +3974,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/wmon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "wmon"
+      "groupingId": 100433
     },
     {
       "address": "0xa7d1e886acf66Ec0656DF2DECB4B7C893A3bAb4C",
@@ -3983,7 +3983,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/wmton_160x160.png",
       "isOndoStock": true,
-      "groupingId": "wmton"
+      "groupingId": 100434
     },
     {
       "address": "0x55b56CC2cdcbC2C58668F72663bE7599a46Ed79F",
@@ -3992,7 +3992,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/wolfon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "wolfon"
+      "groupingId": 100435
     },
     {
       "address": "0x50e66EDb7D0b79Ee988f098754A27aFaa643B4f5",
@@ -4001,7 +4001,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/wson_160x160.png",
       "isOndoStock": true,
-      "groupingId": "wson"
+      "groupingId": 100436
     },
     {
       "address": "0xad56701D9e57957e28e546db7Db508a16d4f86CC",
@@ -4010,7 +4010,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/wulfon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "wulfon"
+      "groupingId": 100437
     },
     {
       "address": "0xCe128eDcF46B281b7df8880867B74E11B055E8E7",
@@ -4019,7 +4019,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/wyfion_160x160.png",
       "isOndoStock": true,
-      "groupingId": "wyfion"
+      "groupingId": 100438
     },
     {
       "address": "0x4D209d275e3492AC08497a7a42915899c4DD5e86",
@@ -4028,7 +4028,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/xomon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "xomon"
+      "groupingId": 100439
     },
     {
       "address": "0x1FE12ABDF560C753aCbC63533519d74801E04958",
@@ -4037,7 +4037,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/xyldon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "xyldon"
+      "groupingId": 100440
     },
     {
       "address": "0xe778a2E5D953c82Eb9475CF3B87654226A867344",
@@ -4046,7 +4046,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/xyzon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "xyzon"
+      "groupingId": 100441
     },
     {
       "address": "0x4277d20430e901092E259bA9CF7164C37077aAF1",
@@ -4055,7 +4055,7 @@
       "decimals": 18,
       "logoURI": "https://cdn.ondo.finance/tokens/logos/yearon_160x160.png",
       "isOndoStock": true,
-      "groupingId": "yearon"
+      "groupingId": 100442
     },
     {
       "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
@@ -4063,7 +4063,7 @@
       "symbol": "SHIB",
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/11939/small/shiba.png",
-      "groupingId": "shib"
+      "groupingId": 11939
     }
   ]
 }
