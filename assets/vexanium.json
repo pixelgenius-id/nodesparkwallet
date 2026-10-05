@@ -12,7 +12,7 @@
       "name": "Wrapped USD",
       "symbol": "wUSDT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/nodesparkwallet/refs/heads/main/icons/usdt.png"
     },
     {
       "address": "0xdab5ae370e584d416e38274a55ae764ea4eac8b7",
